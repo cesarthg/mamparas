@@ -29,11 +29,11 @@
           class="navbar-toggler-icon"></span></button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto font-weight-bold">
-          <li class="nav-item active nav-clr"><a class="nav-link" href="#!">Inicio</a></li>
-          <li class="nav-item"><a class="nav-link" href="modelos-mat.html">Modelos</a></li>
-          <li class="nav-item"><a class="nav-link" href="colores-acabados.html">Acabados</a></li>
-          <li class="nav-item"><a class="nav-link" href="cotizador.html">Cotizador</a></li>
-          <li class="nav-item"><a class="nav-link" href="contacto.html">Contacto</a></li>
+          <li class="nav-item nav-clr"><a class="nav-link" href="index.php">Inicio</a></li>
+          <li class="nav-item"><a class="nav-link" href="modelos-materiales.php">Modelos</a></li>
+          <li class="nav-item"><a class="nav-link" href="colores-acabados.php">Acabados</a></li>
+          <li class="nav-item"><a class="nav-link" href="cotizador.php">Cotizador</a></li>
+          <li class="nav-item"><a class="nav-link" href="contacto.php">Contacto</a></li>
         </ul>
       </div>
     </div>
