@@ -19,6 +19,7 @@
 
 <body>
   <!-- Navbar-->
+  <header>
   <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
     <div class="container">
       <a class="navbar-brand" href="#!">
@@ -28,7 +29,7 @@
         aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span
           class="navbar-toggler-icon"></span></button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto font-weight-bold">
+        <ul class="navbar-nav ml-auto font-weight-normal">
           <li class="nav-item nav-clr"><a class="nav-link" href="index.php">Inicio</a></li>
           <li class="nav-item"><a class="nav-link" href="modelos-materiales.php">Modelos</a></li>
           <li class="nav-item"><a class="nav-link" href="colores-acabados.php">Acabados</a></li>
@@ -38,3 +39,4 @@
       </div>
     </div>
   </nav>
+</header>
