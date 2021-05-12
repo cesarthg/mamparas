@@ -22,3 +22,10 @@ body {
   .link-mamp {
       color: #ffffff;
   }
+  .link-mamp:hover {
+      color: #ffffff;
+  }
+  .div-deco {
+      height: 1rem;
+      background: #1D3C4E;
+  }
