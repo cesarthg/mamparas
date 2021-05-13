@@ -1,23 +1,4 @@
-@font-face {
-  font-family: 'AppFontMontserrat';
-  src: url('fonts/woff2/Montserrat-Regular.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'AppFontMontserratMedium';
-  src: url('fonts/woff2/Montserrat-Medium.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'AppFontMontserratSemiBlold';
-  src: url('fonts/woff2/Montserrat-SemiBold.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'AppFontMontserratBlold';
-  src: url('fonts/woff2/Montserrat-Bold.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'AppFontMontserratLight';
-  src: url('fonts/woff2/Montserrat-Light.woff2') format('woff2');
-}
+
 /*-----footer------*/
 .area-footer{
     background-color: #3F3F3F;
@@ -26,7 +7,7 @@
 .direccion-principal{
     color: #ffffff;
     font-size: 13px;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
 }
 .email-hyg{
     color: #ffffff;
@@ -37,14 +18,14 @@
 .footer-titulo{
     color: #ffffff;
     font-size: 13px;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     display: block;
     border-bottom: 1px solid rgba(255, 255, 255, .3);
     width: 80%;
 }
 .direccion-footer{
     font-size: 12px;
-    font-family: 'AppFontMontserratLight', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     color: #ffffff;
 }
 .link-politicas{
@@ -78,51 +59,51 @@
 }*/
 .nombre-producto{
   color: #0D0D0D;
-  font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
   font-size: 13px;
   display: block;
 }
 .modelo-producto{
   color: #0D0D0D;
-  font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
   font-size: 13px;
   display: block;
 }
 .precio-lista-titulo{
     color: #0D0D0D;
     font-size: 11px;
-    font-family: 'AppFontMontserrat', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     display: block;
   }
 .precio-real{
   color: #030303;
   font-size: 16px;
-  font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
   display: block;
 }
 .precio-real-descuento {
     color: #D81919;
     font-size: 16px;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     display: block;
 }
 .precio-lista{
   color: #030303;
   font-size: 14px;
-  font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
   display: inline-block;
   text-decoration: line-through;
 }
 .descuento-producto{
   color: #D81919;
   font-size: 14px;
-  font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
   display: inline-block;
 }
 .descripcion-producto{
     color: #000000;
     font-size: 14px;
-    font-family: 'AppFontMontserratLight', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     margin-bottom: 40px;
 }
 .btn-producto-carrito {
@@ -133,7 +114,7 @@
     -ms-user-select: none;
     user-select: none;
     background-color: #095D82;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 12px;
     line-height: 1.5;
     border-radius: 0;
@@ -150,7 +131,7 @@
 .btn-producto-carrito-ok {
     color: #306682;
     background-color: #ffffff;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     text-align: center;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -172,7 +153,7 @@
 .cuadro-envio-gratis {
     color: #FFFFFF;
     background-color: #062439;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     text-align: center;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -193,7 +174,7 @@
 .cuadro-tiempo-envio {
     color: #7ac2a5;
     background-color: #ffffff;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     text-align: center;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -216,7 +197,7 @@
     color: #ffffff;
     background-color: #7ac2a5;
     border: 1px solid transparent;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     text-align: center;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -237,7 +218,7 @@
 .cuadro-proximamente {
     color: #FFFFFF;
     background-color: #f59f47;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     text-align: center;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -259,7 +240,7 @@
 .btn-producto-agotado {
     color: #3F3F3F;
     background-color: #F3F3F3;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     text-align: center;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -280,25 +261,25 @@
 /*-----producto------*/
 .producto-nombre{
   font-size: 38px;
-  font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
   color: #3F3F3F;
 }
 .producto-modelo{
   color: #3F3F3F;
   font-size: 24px;
-  font-family: 'AppFontMontserratLight', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
 }
 .producto-precio-real{
   font-size: 24px;
   color: #3F3F3F;
-  font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
   text-align: right;
   display: block;
 }
 .iva-incluido {
     font-size: 9px;
     color: #3F3F3F;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     text-align: right;
     display: block;
 }
@@ -307,7 +288,7 @@
   text-align: right;
   color: #3F3F3F;
   font-size: 16px;
-  font-family: 'AppFontMontserratLight', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
 }
 .producto-precio-antes{
   text-decoration: line-through;
@@ -315,7 +296,7 @@
 .producto-descuento{
   color: #D81919;
   font-size: 20px;
-  font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
 }
 .area-producto-carrito{
     margin-top: 10px;
@@ -335,7 +316,7 @@
     -ms-user-select: none;
     user-select: none;
     background-color: #095D82;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 19px;
     line-height: 1.5;
     border-radius: 0px;
@@ -355,7 +336,7 @@
     -ms-user-select: none;
     user-select: none;
     background-color: #F3F3F3;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 19px;
     line-height: 1.5;
     border-radius: 0px;
@@ -387,7 +368,7 @@
   display: block;
   color: #3F3F3F;
   font-size: 14px;
-  font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
 }
 .area-producto-documentos{
   border-bottom: solid 1px #000000;
@@ -396,19 +377,19 @@
 .titulo-caracteristicas-producto > th{
   color: #3F3F3F;
   font-size: 14px;
-  font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
   font-weight: 100 !important;
 }
 .caracteristicas-producto > td{
   color: #3F3F3F;
   font-size: 14px;
-  font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+  font-family: 'Montserrat', Fallback, sans-serif;
 }
 .paginacion-link {
     border: none !important;
     color: #1C7CD5 !important;
     font-size: 12px !important;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif !important;
+    font-family: 'Montserrat', Fallback, sans-serif !important;
     padding: 10px 0px !important;
     display: inline-block !important;
 }
@@ -426,7 +407,7 @@
     border: none !important;
     color: #095D82 !important;
     font-size: 12px !important;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif !important;
+    font-family: 'Montserrat', Fallback, sans-serif !important;
     padding: 10px 0px !important;
     display: inline-block !important;
 }
@@ -475,7 +456,7 @@
     background: linear-gradient(180deg, rgba(243,243,243,1) 0%, rgba(218,218,218,1) 100%, rgba(0,212,255,1) 100%);
 }
 .cuadro-nombre {
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 18px !important;
     color: #191818;
     text-align: center;
@@ -492,7 +473,7 @@
     right: 40px;
     color: #FFFFFF;
     font-size: 50px;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
 }
 /*-----carrito de compra------*/
 .carrito-contorno-color{
@@ -508,13 +489,13 @@
     display: block;
     color: #3F3F3F;
     font-size: 16px;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
 }
 .carrito-producto {
     display: block;
     color: #3F3F3F;
     font-size: 12px;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
 }
 .carrito-cantidad {
     display: inline-block;
@@ -523,12 +504,12 @@
     padding: .375rem .75rem;
     border-radius: .25rem;
     color: #3F3F3F;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 14px;
     text-align: center;
 }
 .carrito-cantidad-menos-mas {
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     display: inline-block;
     color: #3F3F3F;
     font-size: 24px;
@@ -540,7 +521,7 @@
 .carrito-precio {
     color: #3F3F3F;
     font-size: 14px;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
 }
 
 .carrito-imagen {
@@ -562,7 +543,7 @@
 .carrito-resumen-titulo {
     display: block;
     color: #3F3F3F;
-    font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 22px;
     text-align: end;
 }
@@ -571,7 +552,7 @@
 }
 .carrito-td-subtotal {
     color: #3F3F3F;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 14px;
     text-align: right;
     padding-top: 40px;
@@ -579,7 +560,7 @@
 }
 .carrito-td-subtotal-importe {
     color: #3F3F3F;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 16px;
     text-align: right;
     padding-top: 40px;
@@ -587,28 +568,28 @@
 }
 .carrito-td-total {
     color: #3F3F3F;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 16px;
     text-align: right;
     padding-bottom: 10px;
 }
 .carrito-td-total-importe {
     color: #3F3F3F;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 16px;
     text-align: right;
     padding-bottom: 10px;
 }
 .carrito-td-iva {
     color: #8E8E8E;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 13px;
     text-align: right;
     padding-bottom: 10px;
 }
 .carrito-td-iva-importe {
     color: #8E8E8E;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 13px;
     text-align: right;
     padding-bottom: 10px;
@@ -621,7 +602,7 @@
     -ms-user-select: none;
     user-select: none;
     background-color: #F3F3F3;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 14px;
     line-height: 1.5;
     border-radius: 0.25rem;
@@ -639,7 +620,7 @@
     -ms-user-select: none;
     user-select: none;
     background-color: #1AD8A6;
-    font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 14px;
     line-height: 1.5;
     border-radius: 0.25rem;
@@ -654,7 +635,7 @@
 }
 .titulo-opc-pago {
     color: #AEB7BA;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 16px;
     display: block;
     margin-bottom: 10px;
@@ -664,7 +645,7 @@
 }
 .label-cotizacion {
     font-size: 14px;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     color: #3F3F3F;
 }
 .label-cotizacion > span {
@@ -673,23 +654,23 @@
 .input-cotizacion {
     color: #3F3F3F;
     font-size: 14px;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
 }
 .marcas-select {
     font-size: 14px !important;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif !important;
+    font-family: 'Montserrat', Fallback, sans-serif !important;
     color: #3F3F3F !important;
 }
 
 .titulo-de-inicio {
     color: #3F3F3F;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 20px;
     display: inline-block;
 }
 .link-inicio {
     color: #1C7CD5;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 15px;
     text-decoration-line: underline;
     display: inline-block;
@@ -701,7 +682,7 @@
 .select-opc {
     height: 30px !important;
     font-size: 12px !important;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif !important;
+    font-family: 'Montserrat', Fallback, sans-serif !important;
     color: #3F3F3F !important;
 }
 .opc-navegacion > ol {
@@ -713,7 +694,7 @@
     list-style: none;
 }
 .opc-navegacion > ol > li > a {
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 12px;
     color: #1C7CD5;
 }
@@ -722,13 +703,13 @@
 }
 .opc-navegacion .actual {
     color: #777777;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 12px;
 }
 .separador-nav {
     display: inline-block;
     padding: 0px 5px;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     color: #777777;
     font-size: 12px;
 }
@@ -738,7 +719,7 @@
 }
 .titulo-sitios-relacionados {
     color: #3F3F3F;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 24px;
 }
 .carousel-control-prev {
@@ -750,7 +731,7 @@
 .btn-producto-no-habilitado {
     border: 2px solid #F3F3F3;
     color: #3F3F3F;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     text-align: center;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -771,7 +752,7 @@
     border: 1px solid transparent;
     background-color: #cd1719;
     color: #ffffff;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     text-align: center;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -789,7 +770,7 @@
     color: #ffffff;
 }
 .cuerpo-aviso {
-    font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 18px;
     color: #000000;
 }
@@ -820,7 +801,7 @@
     border-left: 1px solid #ffffff;
     border-bottom: 1px solid #000000;
     border-radius: 0px;
-    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     margin-bottom: 15px;
 }
 .aviso-email > button {
@@ -837,7 +818,7 @@
     background-color: #095D82;
     border-color: #095D82;
     color: #ffffff;
-    font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     height: 45px;
     width: 30%;
 }
@@ -849,17 +830,17 @@
 }
 .cuadro-titulo-1 > div > h1 {
     color: #ffffff;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 35px;
 }
 .nuestras-tiendas {
     color: #095D82;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 20px;
 }
 .ir-hygoler {
     color: #d61e26;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 20px;
 }
 .ir-hygoler:hover, .ir-hygoler:focus {
@@ -873,7 +854,7 @@
 .link-tienda > span {
     display: block;
     color: #cdcdcd;
-    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 14px;
 }
 .link-tienda:hover, .link-tienda:focus, .link-tienda > span:hover {
@@ -885,12 +866,12 @@
 }
 .titulo-division {
     color: #000000;
-    font-family: 'AppFontMontserrat', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 20px;
 }
 .link-division {
     color: #000000;
-    font-family: 'AppFontMontserrat', Fallback, sans-serif;
+    font-family: 'Montserrat', Fallback, sans-serif;
     font-size: 20px;
 }
 .link-division:hover, .link-division:focus {
