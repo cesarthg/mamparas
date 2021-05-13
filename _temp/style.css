@@ -1,0 +1,899 @@
+@font-face {
+    font-family: 'AppFontMontserrat';
+    src: url('fonts/woff2/Montserrat-Regular.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'AppFontMontserratMedium';
+    src: url('fonts/woff2/Montserrat-Medium.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'AppFontMontserratSemiBlold';
+    src: url('fonts/woff2/Montserrat-SemiBold.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'AppFontMontserratBlold';
+    src: url('fonts/woff2/Montserrat-Bold.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'AppFontMontserratLight';
+    src: url('fonts/woff2/Montserrat-Light.woff2') format('woff2');
+  }
+  /*-----footer------*/
+  .area-footer{
+      background-color: #3F3F3F;
+      padding-top: 20px;
+  }
+  .direccion-principal{
+      color: #ffffff;
+      font-size: 13px;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+  }
+  .email-hyg{
+      color: #ffffff;
+  }
+  .email-hyg:hover, .email-hyg:focus{
+      color: #ffffff;
+  }
+  .footer-titulo{
+      color: #ffffff;
+      font-size: 13px;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      display: block;
+      border-bottom: 1px solid rgba(255, 255, 255, .3);
+      width: 80%;
+  }
+  .direccion-footer{
+      font-size: 12px;
+      font-family: 'AppFontMontserratLight', Fallback, sans-serif;
+      color: #ffffff;
+  }
+  .link-politicas{
+      color: #ffffff;
+      display: inline-block;
+      padding-left: 10px;
+      padding-right: 10px;
+  }
+  .link-politicas:hover, .link-politicas:focus{
+      color: #ffffff;
+  }
+  /*----------banner----------*/
+  #carouselInicio > a{
+    width: 5% !important;
+  }
+  /*----------/banner----------*/
+  /*-----productos------*/
+  .fila-productos{
+    margin-top: 0px;
+    margin-bottom: 70px;
+  }
+  .productos > div {
+    display: block;
+    padding: 5px;
+  }
+  .img-lista-producto {
+      display: block;
+      height: 155px;
+  }
+  /*.area-datos-producto {
+  }*/
+  .nombre-producto{
+    color: #0D0D0D;
+    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-size: 13px;
+    display: block;
+  }
+  .modelo-producto{
+    color: #0D0D0D;
+    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-size: 13px;
+    display: block;
+  }
+  .precio-lista-titulo{
+      color: #0D0D0D;
+      font-size: 11px;
+      font-family: 'AppFontMontserrat', Fallback, sans-serif;
+      display: block;
+    }
+  .precio-real{
+    color: #030303;
+    font-size: 16px;
+    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    display: block;
+  }
+  .precio-real-descuento {
+      color: #D81919;
+      font-size: 16px;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      display: block;
+  }
+  .precio-lista{
+    color: #030303;
+    font-size: 14px;
+    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    display: inline-block;
+    text-decoration: line-through;
+  }
+  .descuento-producto{
+    color: #D81919;
+    font-size: 14px;
+    font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+    display: inline-block;
+  }
+  .descripcion-producto{
+      color: #000000;
+      font-size: 14px;
+      font-family: 'AppFontMontserratLight', Fallback, sans-serif;
+      margin-bottom: 40px;
+  }
+  .btn-producto-carrito {
+      color: #ffffff;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      background-color: #095D82;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      font-size: 12px;
+      line-height: 1.5;
+      border-radius: 0;
+      border: 1px solid transparent;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      display: block;
+      bottom: 0px;
+      margin-top: 5px;
+      width: 100%;
+  }
+  .btn-producto-carrito-ok {
+      color: #306682;
+      background-color: #ffffff;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      font-size: 12px;
+      line-height: 1.5;
+      border-radius: 0;
+      border: 2px solid #306682;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      display: block;
+      bottom: 0px;
+      margin-top: 5px;
+      width: 100%;
+  }
+  .cuadro-envio-gratis {
+      color: #FFFFFF;
+      background-color: #062439;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      font-size: 12px;
+      line-height: 1.5;
+      border-radius: 0;
+      border: 1px solid transparent;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      display: block;
+      bottom: 0px;
+      margin-top: 5px;
+  }
+  .cuadro-tiempo-envio {
+      color: #7ac2a5;
+      background-color: #ffffff;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      font-size: 12px;
+      line-height: 1.5;
+      border-radius: 0;
+      border: 2px solid #7ac2a5;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      display: block;
+      bottom: 0px;
+      margin-top: 5px;
+      width: 100%;
+  }
+  .cuadro-en-stock {
+      color: #ffffff;
+      background-color: #7ac2a5;
+      border: 1px solid transparent;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      font-size: 12px;
+      line-height: 1.5;
+      border-radius: 0;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      display: block;
+      bottom: 0px;
+      margin-top: 5px;
+      width: 100%;
+  }
+  .cuadro-proximamente {
+      color: #FFFFFF;
+      background-color: #f59f47;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      font-size: 12px;
+      line-height: 1.5;
+      border-radius: 0;
+      border: 1px solid transparent;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      display: block;
+      bottom: 0px;
+      margin-top: 5px;
+      width: 100%;
+  }
+  .btn-producto-agotado {
+      color: #3F3F3F;
+      background-color: #F3F3F3;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      font-size: 12px;
+      line-height: 1.5;
+      border-radius: 0;
+      border: 1px solid transparent;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      display: block;
+      margin-top: 5px;
+      width: 100%;
+  }
+  /*-----producto------*/
+  .producto-nombre{
+    font-size: 38px;
+    font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+    color: #3F3F3F;
+  }
+  .producto-modelo{
+    color: #3F3F3F;
+    font-size: 24px;
+    font-family: 'AppFontMontserratLight', Fallback, sans-serif;
+  }
+  .producto-precio-real{
+    font-size: 24px;
+    color: #3F3F3F;
+    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    text-align: right;
+    display: block;
+  }
+  .iva-incluido {
+      font-size: 9px;
+      color: #3F3F3F;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      text-align: right;
+      display: block;
+  }
+  .producto-precio-lista{
+    display: block;
+    text-align: right;
+    color: #3F3F3F;
+    font-size: 16px;
+    font-family: 'AppFontMontserratLight', Fallback, sans-serif;
+  }
+  .producto-precio-antes{
+    text-decoration: line-through;
+  }
+  .producto-descuento{
+    color: #D81919;
+    font-size: 20px;
+    font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+  }
+  .area-producto-carrito{
+      margin-top: 10px;
+      border-top: solid 1px #000000;
+      padding-top: 15px;
+      height: 70px;
+      border-bottom: solid 1px #000000;
+  }
+  .contenedor-boton-carrito {
+      position: relative;
+  }
+  .btn-agregar-producto-carrito {
+      color: #ffffff;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      background-color: #095D82;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      font-size: 19px;
+      line-height: 1.5;
+      border-radius: 0px;
+      border: 1px solid transparent;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      width: 100%;
+      display: block;
+      position: absolute;
+      top: 0px;
+  }
+  .btn-agregar-producto-carrito-ok {
+      color: #3F3F3F;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      background-color: #F3F3F3;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      font-size: 19px;
+      line-height: 1.5;
+      border-radius: 0px;
+      border: 1px solid transparent;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      width: 100%;
+      display: block;
+      position: absolute;
+      top: 0px;
+  }
+  .btn-agregar-producto-carrito:focus, .btn-agregar-producto-carrito:hover, .btn-agregar-producto-carrito-ok:focus, .btn-agregar-producto-carrito-ok:hover{
+    text-decoration: none;
+  }
+  .lista-documentos-producto{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+  .lista-documentos-producto > li{
+    padding: 0.75rem 1.25rem;
+    background-color: #fff;
+    display: block;
+  }
+  .lista-documentos-producto > li > span{
+    display: block;
+    color: #3F3F3F;
+    font-size: 14px;
+    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+  }
+  .area-producto-documentos{
+    border-bottom: solid 1px #000000;
+    padding-bottom: 20px;
+  }
+  .titulo-caracteristicas-producto > th{
+    color: #3F3F3F;
+    font-size: 14px;
+    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-weight: 100 !important;
+  }
+  .caracteristicas-producto > td{
+    color: #3F3F3F;
+    font-size: 14px;
+    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+  }
+  .paginacion-link {
+      border: none !important;
+      color: #1C7CD5 !important;
+      font-size: 12px !important;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif !important;
+      padding: 10px 0px !important;
+      display: inline-block !important;
+  }
+  .paginacion-link:hover, .paginacion-link:focus {
+      background-color: #FFFFFF;
+      color: #095D82 !important;
+  }
+  .span-pag {
+      display: inline-block;
+      color: #777777;
+      font-size: 12px;
+      padding: 0px 5px;
+  }
+  .paginacion-link-actual {
+      border: none !important;
+      color: #095D82 !important;
+      font-size: 12px !important;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif !important;
+      padding: 10px 0px !important;
+      display: inline-block !important;
+  }
+  /*-----cuadros para opciones ------*/
+  @media only screen and (min-width: 768px) {
+      .cuadros-link, .cuadros-link-categoria {
+          background-color: #F3F3F3;
+          height: 160px;
+          display: block;
+          padding-top: 10px;
+      }
+      .cuadros-link > img {
+          display: block;
+          width: 150px;
+          height: 150px;
+          margin: auto;
+      }
+      .cuadros-link-categoria > img {
+          display: block;
+          height: 140px;
+          max-width: 100%;
+          margin: auto;
+      }
+  }
+  @media only screen and (max-width: 767px) {
+      .cuadros-link, .cuadros-link-categoria {
+          background-color: #F3F3F3;
+          height: 160px;
+          display: block;
+          padding-top: 10px;
+      }
+      .cuadros-link > img {
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: auto;
+      }
+      .cuadros-link-categoria > img {
+          display: block;
+          height: 140px;
+          max-width: 100%;
+          margin: auto;
+      }
+  }
+  .cuadros-link:hover, .cuadros-link:focus, .cuadros-link-categoria:hover, .cuadros-link-categoria:focus {
+      background: linear-gradient(180deg, rgba(243,243,243,1) 0%, rgba(218,218,218,1) 100%, rgba(0,212,255,1) 100%);
+  }
+  .cuadro-nombre {
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      font-size: 18px !important;
+      color: #191818;
+      text-align: center;
+      margin-top: 10px;
+  }
+  /*-----banners secciones------*/
+  .banner-secciones{
+      position: relative;
+  }
+  .banner-secciones > h2{
+      position: absolute;
+      z-index: 134;
+      top: 10%;
+      right: 40px;
+      color: #FFFFFF;
+      font-size: 50px;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+  }
+  /*-----carrito de compra------*/
+  .carrito-contorno-color{
+      background-color: #F3F3F3;
+  }
+  .carrito-fila-producto {
+      background-color: #FFFFFF;
+      margin: 20px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+  }
+  .carrito-modelo {
+      display: block;
+      color: #3F3F3F;
+      font-size: 16px;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+  }
+  .carrito-producto {
+      display: block;
+      color: #3F3F3F;
+      font-size: 12px;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+  }
+  .carrito-cantidad {
+      display: inline-block;
+      width: 40px;
+      border: solid 1px #E2D7D7;
+      padding: .375rem .75rem;
+      border-radius: .25rem;
+      color: #3F3F3F;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      font-size: 14px;
+      text-align: center;
+  }
+  .carrito-cantidad-menos-mas {
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      display: inline-block;
+      color: #3F3F3F;
+      font-size: 24px;
+  }
+  .carrito-cantidad-menos-mas:hover, .carrito-cantidad-menos-mas:focus {
+      text-decoration: none;
+      color: #095D82;
+  }
+  .carrito-precio {
+      color: #3F3F3F;
+      font-size: 14px;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+  }
+  
+  .carrito-imagen {
+      display: block;
+      max-width: 100%;
+      height: 100px;
+  }
+  .carrito-fila-resumen {
+      padding-top: 20px;
+      padding-right: 30px;
+      padding-left: 20px;
+  }
+  .carrito-cuadro-resumen {
+      background-color: #FFFFFF;
+      padding-top: 30px;
+      padding-right: 20px;
+      padding-bottom: 20px;
+  }
+  .carrito-resumen-titulo {
+      display: block;
+      color: #3F3F3F;
+      font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+      font-size: 22px;
+      text-align: end;
+  }
+  .carrito-tabla {
+      width: 100%;
+  }
+  .carrito-td-subtotal {
+      color: #3F3F3F;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      font-size: 14px;
+      text-align: right;
+      padding-top: 40px;
+      padding-bottom: 40px;
+  }
+  .carrito-td-subtotal-importe {
+      color: #3F3F3F;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      font-size: 16px;
+      text-align: right;
+      padding-top: 40px;
+      padding-bottom: 40px;
+  }
+  .carrito-td-total {
+      color: #3F3F3F;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      font-size: 16px;
+      text-align: right;
+      padding-bottom: 10px;
+  }
+  .carrito-td-total-importe {
+      color: #3F3F3F;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      font-size: 16px;
+      text-align: right;
+      padding-bottom: 10px;
+  }
+  .carrito-td-iva {
+      color: #8E8E8E;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      font-size: 13px;
+      text-align: right;
+      padding-bottom: 10px;
+  }
+  .carrito-td-iva-importe {
+      color: #8E8E8E;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      font-size: 13px;
+      text-align: right;
+      padding-bottom: 10px;
+  }
+  .btn-carrito-cotizacion {
+      color: #3F3F3F;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      background-color: #F3F3F3;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      font-size: 14px;
+      line-height: 1.5;
+      border-radius: 0.25rem;
+      border: 1px solid transparent;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      width: 100%;
+      display: block;
+  }
+  .btn-carrito-comprar {
+      color: #FFFFFF;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      background-color: #1AD8A6;
+      font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+      font-size: 14px;
+      line-height: 1.5;
+      border-radius: 0.25rem;
+      border: 1px solid transparent;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      width: 100%;
+      display: block;
+  }
+  #btn_crear_cotizacion_trabajando {
+      display: none;
+  }
+  .titulo-opc-pago {
+      color: #AEB7BA;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      font-size: 16px;
+      display: block;
+      margin-bottom: 10px;
+  }
+  .modal-datos-cotizacion {
+      background-color: #F3F3F3;
+  }
+  .label-cotizacion {
+      font-size: 14px;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      color: #3F3F3F;
+  }
+  .label-cotizacion > span {
+      color: #095D82 !important;
+  }
+  .input-cotizacion {
+      color: #3F3F3F;
+      font-size: 14px;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+  }
+  .marcas-select {
+      font-size: 14px !important;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif !important;
+      color: #3F3F3F !important;
+  }
+  
+  .titulo-de-inicio {
+      color: #3F3F3F;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      font-size: 20px;
+      display: inline-block;
+  }
+  .link-inicio {
+      color: #1C7CD5;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      font-size: 15px;
+      text-decoration-line: underline;
+      display: inline-block;
+      margin-left: 10px;
+  }
+  .link-inicio:hover, .link-inicio:focus {
+      color: #095D82;
+  }
+  .select-opc {
+      height: 30px !important;
+      font-size: 12px !important;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif !important;
+      color: #3F3F3F !important;
+  }
+  .opc-navegacion > ol {
+      list-style: none;
+      display: flex;
+      padding-left: 0px !important;
+  }
+  .opc-navegacion > ol > li {
+      list-style: none;
+  }
+  .opc-navegacion > ol > li > a {
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      font-size: 12px;
+      color: #1C7CD5;
+  }
+  .opc-navegacion > ol > li > a:focus, .opc-navegacion > ol > li > a:hover {
+      color: #095D82;
+  }
+  .opc-navegacion .actual {
+      color: #777777;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      font-size: 12px;
+  }
+  .separador-nav {
+      display: inline-block;
+      padding: 0px 5px;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      color: #777777;
+      font-size: 12px;
+  }
+  .img-sitios-relacionados {
+      display: block;
+      width: 100%;
+  }
+  .titulo-sitios-relacionados {
+      color: #3F3F3F;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      font-size: 24px;
+  }
+  .carousel-control-prev {
+      width: 30px !important;
+  }
+  .carousel-control-next {
+      width: 30px !important;
+  }
+  .btn-producto-no-habilitado {
+      border: 2px solid #F3F3F3;
+      color: #3F3F3F;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      font-size: 12px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      display: block;
+      margin-top: 5px;
+      width: 100%;
+  }
+  .btn-producto-no-habilitado:hover, .btn-producto-no-habilitado:focus {
+      text-decoration: none;
+      color: #306682;
+  }
+  .btn-producto-descuento-adicional {
+      border: 1px solid transparent;
+      background-color: #cd1719;
+      color: #ffffff;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      font-size: 12px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      display: block;
+      margin-top: 5px;
+      width: 100%;
+  }
+  .btn-producto-descuento-adicional:hover, .btn-producto-descuento-adicional:focus {
+      text-decoration: none;
+      color: #ffffff;
+  }
+  .cuerpo-aviso {
+      font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+      font-size: 18px;
+      color: #000000;
+  }
+  .aviso-email {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex: 0 0 auto;
+      flex: 0 0 auto;
+      -ms-flex-flow: row wrap;
+      flex-flow: row wrap;
+      -ms-flex-align: center;
+      align-items: center;
+      width: 100%;
+  }
+  .aviso-email > input {
+      display: block;
+      width: 70%;
+      height: 30px;
+      padding: 0.375rem 0.75rem;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #000000;
+      background-color: #ffffff;
+      background-clip: padding-box;
+      border-top: 1px solid #ffffff;
+      border-right: 1px solid #ffffff;
+      border-left: 1px solid #ffffff;
+      border-bottom: 1px solid #000000;
+      border-radius: 0px;
+      font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+      margin-bottom: 15px;
+  }
+  .aviso-email > button {
+      display: inline-block;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      border: 1px solid transparent;
+      padding: 0.375rem 0.75rem;
+      font-size: 1rem;
+      line-height: 1.5;
+      border-radius: 0px;
+      background-color: #095D82;
+      border-color: #095D82;
+      color: #ffffff;
+      font-family: 'AppFontMontserratBlold', Fallback, sans-serif;
+      height: 45px;
+      width: 30%;
+  }
+  /*----------------*/
+  .cuadro-titulo-1 > div {
+      background-color: #095D82;
+      padding-top: 30px !important;
+      padding-bottom: 30px !important;
+  }
+  .cuadro-titulo-1 > div > h1 {
+      color: #ffffff;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      font-size: 35px;
+  }
+  .nuestras-tiendas {
+      color: #095D82;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      font-size: 20px;
+  }
+  .ir-hygoler {
+      color: #d61e26;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      font-size: 20px;
+  }
+  .ir-hygoler:hover, .ir-hygoler:focus {
+      color: #095D82;
+      text-decoration: none;
+  }
+  .link-tienda {
+      display: block;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .link-tienda > span {
+      display: block;
+      color: #cdcdcd;
+      font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+      font-size: 14px;
+  }
+  .link-tienda:hover, .link-tienda:focus, .link-tienda > span:hover {
+      text-decoration: none;
+      color: #095D82;
+  }
+  .separacion-categorias {
+      margin-top: 100px;
+  }
+  .titulo-division {
+      color: #000000;
+      font-family: 'AppFontMontserrat', Fallback, sans-serif;
+      font-size: 20px;
+  }
+  .link-division {
+      color: #000000;
+      font-family: 'AppFontMontserrat', Fallback, sans-serif;
+      font-size: 20px;
+  }
+  .link-division:hover, .link-division:focus {
+      text-decoration: none;
+      color: #095D82;
+  }
