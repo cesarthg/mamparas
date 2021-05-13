@@ -1,0 +1,113 @@
+ul.cat-n {
+    list-style-type: none;
+}
+ul.cat-n-cero {
+    padding-left: 0px;
+}
+ul.cat-n > li > a {
+    color: #000000;
+    font-family: 'AppFontMontserratLight', Fallback, sans-serif;
+    font-size: 12px;
+}
+ul.cat-n-cero > li > a {
+    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    color: #0D0D0D;
+}
+ul.cat-n > li > a:hover, ul.cat-n > li > a:focus, ul.cat-n > li > a.activado {
+    text-decoration: none;
+    color: #095D82;
+    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+}
+.area-filtros-cat {
+    border-right: solid 1px #F3F3F3;
+}
+.opc-marcas-cat {
+    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    color: #0D0D0D;
+    font-size: 12px;
+}
+.cat-marca-nom {
+    color: #000000 !important;
+    font-family: 'AppFontMontserratLight', Fallback, sans-serif !important;
+    font-size: 12px !important;
+}
+.quitar-filtros {
+    color: #BCB0B0;
+    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+    font-size: 10px;
+}
+.quitar-filtros:hover, .quitar-filtros:focus {
+    text-decoration: none;
+    color: #095D82;
+    font-family: 'AppFontMontserratSemiBlold', Fallback, sans-serif;
+}
+.opc-categorias {
+    border: 0px;
+    color: #000000 !important;
+    font-family: 'AppFontMontserratLight', Fallback, sans-serif !important;
+    font-size: 12px !important;
+}
+.opc-categorias:focus, .opc-categorias:hover {
+    background-color:#FFF !important;
+    outline:none !important;
+    border:none !important;
+    box-shadow:none !important;
+    border: 0px !important;
+}
+/*---*/
+.area-categoria {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.link-area-cat {
+    background-color: #ffffff;
+    border: solid 1px #F3F3F3;
+    display: block;
+    height: 160px;
+    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-size: 12px !important;
+    color: #191818;
+}
+.link-area-cat:focus, .link-area-cat:hover {
+    text-decoration: none;
+    background-color: #095D82;
+    color: #ffffff !important;
+}
+.img-i-cate {
+    height: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+.nom-cat {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+/*---*/
+.area-marca {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.link-area-marca {
+    background-color: #ffffff;
+    border: solid 1px #F3F3F3;
+    display: block;
+    height: 150px;
+    font-family: 'AppFontMontserratMedium', Fallback, sans-serif;
+    font-size: 12px !important;
+    color: #191818;
+}
+.link-area-marca:focus, .link-area-marca:hover {
+    text-decoration: none;
+    background-color: #095D82;
+    color: #ffffff !important;
+}
+.img-i-marca {
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
