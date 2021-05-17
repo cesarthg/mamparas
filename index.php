@@ -9,7 +9,7 @@
         <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it
           makes a great use of the standard Bootstrap core components. Feel free to use this template for any project
           you want!</p>
-        <a class="btn btn-primary " href="#!">Ver modelos</a>
+        <a class="btn btn-outline-primary " href="#!">Ver modelos</a>
       </div>
       <div class="col-lg-6">
         <img class="img-fluid rounded mb-4 mb-lg-0" src="./img/m01.jpg" alt="Modelos y Materiales de Mamparas" /></div>
@@ -22,7 +22,7 @@
         <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it
           makes a great use of the standard Bootstrap core components. Feel free to use this template for any project
           you want!</p>
-        <a class="btn btn-primary py-2" href="#!">Ver acabados</a>
+        <a class="btn btn-outline-primary py-2" href="#!">Ver acabados</a>
       </div>
     </div>
   </div>
@@ -40,7 +40,7 @@
         <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it
           makes a great use of the standard Bootstrap core components. Feel free to use this template for any project
           you want!</p>
-        <a class="btn btn-primary" href="#!">Agendar</a>
+        <a class="btn btn-outline-primary" href="#!">Agendar</a>
       </div>
       <div class="col-lg-3">
         <img src="./img/person_main.svg" alt="Agenda una Cita">
@@ -55,7 +55,7 @@
         <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it
           makes a great use of the standard Bootstrap core components. Feel free to use this template for any project
           you want!</p>
-        <a class="btn btn-primary" href="#!">Subir</a>
+        <a class="btn btn-outline-primary" href="#!">Subir</a>
       </div>
       <div class="col-lg-3">
         <img src="./img/cloud_main.svg" alt="Sube tu plano">
@@ -70,7 +70,7 @@
         <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it
           makes a great use of the standard Bootstrap core components. Feel free to use this template for any project
           you want!</p>
-        <a class="btn btn-primary" href="#!">Cotizar</a>
+        <a class="btn btn-outline-primary" href="#!">Cotizar</a>
       </div>
       <div class="col-lg-3">
         <img src="./img/sys_main.svg" alt="Cotiza tu proyecto el línea">

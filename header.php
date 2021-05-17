@@ -19,24 +19,96 @@
 
 <body>
   <!-- Navbar-->
+  <!-- Navbar-->
   <header>
-  <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-    <div class="container">
-      <a class="navbar-brand" href="#!">
-        <img src="./img/logo-mamp.svg" alt="Logo mamparas" >
-      </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
-        aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span
-          class="navbar-toggler-icon"></span></button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto font-weight-normal">
-          <li class="nav-item nav-clr"><a class="nav-link" href="index.php">Inicio</a></li>
-          <li class="nav-item"><a class="nav-link" href="modelos-materiales.php">Modelos</a></li>
-          <li class="nav-item"><a class="nav-link" href="colores-acabados.php">Acabados</a></li>
-          <li class="nav-item"><a class="nav-link" href="cotizador.php">Cotizador</a></li>
-          <li class="nav-item"><a class="nav-link" href="contacto.php">Contacto</a></li>
-        </ul>
+      <!-- Linea de promocion TOP -->
+      <div class="container-fluid">
+        <div class="row cuadro-1">
+          <div class="col font-weight-bold">
+            <span>COTIZACION AL INSTANTE</span>
+          </div>
+        </div>
+        <!-- Area de logo y Telefono -->
+        <div
+          class="
+            d-flex
+            justify-content-around
+            align-items-center
+            cuadro-99
+            mt-1
+          "
+        >
+          <div class="">
+            <img src="./img/logo-mamp.svg" alt="Logo Mamparas" />
+          </div>
+          <div class="p-1"></div>
+          <div class="">
+            <a href="mailto:ventas@hygolet.com.mx" class="link-contacto">
+              <img src="./img/icono-email.svg" alt="correo" class="i-correo" />
+            </a>
+            <a href="tel:5556053214" class="link-contacto">
+              <img
+                src="./img/icono-telefono.svg"
+                alt="telefono"
+                class="i-telefono"
+              />
+              55 5605 3214
+            </a>
+          </div>
+        </div>
       </div>
-    </div>
-  </nav>
-</header>
+      <div class="container-fluid">
+        <div
+          class="
+            d-flex
+            align-items-center
+            justify-content-around
+            row
+            mt-2
+            mb-4
+            cuadro-nav
+          "
+        >
+          <div class="col-12 col-xl-9 col-md-9">
+            <nav
+              class="navbar navbar-expand-md nav-header"
+            >
+              <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navHeader"
+                aria-controls="navHeader"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+              >
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navHeader">
+                <ul class="navbar-nav mr-auto">
+                  <li class="nav-item">
+                    <a href="index.php" class="nav-link opc-nav-normal">Inicio</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="modelos-materiales.php" class="nav-link opc-nav-normal">Modelos</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="colores-acabados.php" class="nav-link opc-nav-normal">Acabados</a>
+                  </li>
+                </ul>
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a href="cotizador.php" class="nav-link opc-nav-resaltar">COTIZADOR</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="sube-tu-plano.php" class="nav-link opc-nav-normal text-right"
+                      >AGENDA TU CITA</a
+                    >
+                  </li>
+                </ul>
+              </div>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </header>
