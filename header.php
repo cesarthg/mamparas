@@ -102,7 +102,7 @@
                   </li>
                   <li class="nav-item">
                     <a href="sube-tu-plano.php" class="nav-link opc-nav-normal text-right"
-                      >AGENDA TU CITA</a
+                      >AGENDA UNA CITA</a
                     >
                   </li>
                 </ul>
