@@ -39,7 +39,7 @@
           "
         >
           <div class="">
-            <img src="./img/logo-mamp.svg" alt="Logo Mamparas" />
+            <a href="index.php"><img src="./img/logo-mamp.svg" alt="Logo Mamparas" /></a>
           </div>
           <div class="p-1"></div>
           <div class="">
