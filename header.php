@@ -26,20 +26,20 @@
                     <span>COTIZA EN LÍNEA</span>
                 </div>
             </div>
-            <!-- Inicia segunda filla con Logo, buscador y carrito-->
+            <!-- Inicia segunda fila con Logo, buscador y carrito-->
             <!-- /////////////////////////////////////////////////////// -->
                 <!-- Logo -->
             <div class="row mt-3 align-items-center">
                 <div class="col-12 col-sm-6 col-md-8 col-lg-7 offset-lg-1 col-xl-7 offset-xl-1 cuadro-logo">
-                    <a href="https://mueblesparabano.mx/">
-                        <img src="./img/logo-mamp.svg" alt="Logo Muebles para baño">
+                    <a href="#!">
+                        <img src="./img/logo-mamp.svg" alt="Logo Mamparas">
                     </a>
                 </div>
                 <!-- Telefono contacto -->
                 <div class="col-12 col-sm-4 offset-sm-2 offset col-md-3 offset-md-1 col-lg-3 offset-lg-1 col-xl-3 offset-xl-1">
                     <div class="row">
                         <div class="col">
-                            <a href="mailto:contacto@mueblesparabano.mx" class="link-contacto">
+                            <a href="mailto:ventas@hygolet.com.mx" class="link-contacto">
                                 <img src="https://mueblesparabano.mx/publico/imagenes/tema/icono-email.svg" alt="correo" class="i-correo">
                             </a>
                             <a href="tel:5556053214" class="link-contacto">
@@ -59,21 +59,21 @@
                         <div class="collapse navbar-collapse" id="navHeader">
                             <ul class="navbar-nav mr-auto">
                                 <li class="nav-item">
-                                    <a class="nav-link opc-nav-normal" href="https://mueblesparabano.mx/">Inicio</a>
+                                    <a class="nav-link opc-nav-normal" href="index.php">Inicio</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link opc-nav-normal" href="https://mueblesparabano.mx/marcas">Modelos</a>
+                                    <a class="nav-link opc-nav-normal" href="modelos-materiales.php">Modelos</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link opc-nav-normal" href="https://mueblesparabano.mx/productos">Acabados</a>
+                                    <a class="nav-link opc-nav-normal" href="colores-acabados.php">Acabados</a>
                                 </li>
                             </ul>
-                            <ul class="navbar-nav my-2 my-lg-0">
+                            <ul class="navbar-nav my-lg-0">
                                 <li class="nav-item">
-                                    <a class="nav-link opc-nav-normal" href="https://mueblesparabano.mx/outlet">COTIZADOR</a>
+                                    <a class="nav-link opc-nav-normal" href="cotizador.php">Cotizador</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link opc-nav-normal" href="https://mueblesparabano.mx/promociones">AGENDA UNA CITA</a>
+                                    <a class="nav-link opc-nav-normal" href="agenda.php">Agenda tu Cita</a>
                                 </li>
                             </ul>
                         </div>
