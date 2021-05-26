@@ -39,6 +39,7 @@ body {
 .cuadro-1 > div > span {
   color: #FFFFFF;
   font-family: 'Montserrat', Fallback, sans-serif;
+  font-weight: 700;
   font-size: 16px;
   display: block;
   padding-top: 10px;
