@@ -14,7 +14,6 @@
         </p>
        <p>No existe en el mercado internacional, un material con más altas calificaciones y certificaciones.</p>
         <p>El Compacto Fenólico mantiene sus grandes prestaciones durante su larga vida útil.</p>
-        <!-- <a class="btn btn-outline-primary py-2" href="#!">Ver acabados</a> -->
       </div>
     </div>
     
@@ -61,14 +60,16 @@
     </div>
   </div>
   <div class="container">
-    <div class="col-12">
+      <div class="col-12">
         <h2 class="font-weight-bold py-2">Modelos</h2>
       </div>
+      <!-- Primera fila de modelos -->
     <div class="row">
+      <!-- Modelo Estandar -->
       <div class="col-md-3 mb-5">
         <div class="card h-100">
           <div class="card-body">
-            <img src="./img/c-a-05.jpg" class="rounded" width="99%" alt="">
+            <img src="./img/modelos/estandar3.jpg" class="rounded" width="99%" alt="">
             <h5 class="card-title mt-4 font-weight-bold">Estándar</h5>
             <p class="card-text">
               Fijación a piso <br>
@@ -76,24 +77,114 @@
               <!-- Boton Modal 
                  NOTA: cambiar los id del modal: data-target, div class modal fade y h5 class modal-title.
                  Tienen que ser únicos los id's -->
-              <button type="button" class="btn btn-sm btn-outline-primary mt-3" data-toggle="modal" data-target="#exampleModal1">Mas info</button>
+              <button type="button" class="btn btn-sm btn-outline-primary mt-3" data-toggle="modal" data-target="#exampleModal1">Detalles</button>
               <!-- Modal -->
                 <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                   <div class="modal-dialog">
                     <div class="modal-content">
                       <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Detalloness</h5>
+                        <h5 class="modal-title" id="exampleModalLabel">Estándar</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                           <span aria-hidden="true">&times;</span>
                         </button>
                       </div>
                       <div class="modal-body">
                         <div class="text-center">
-                          <img src="./img/c-a-01.jpg" class="rounded" alt="...">
+                          <img src="./img/modelos/estandar3.jpg" class="rounded" alt="...">
                         </div>
                         <ul class="mt-3">
                           <li>Altura de puertas y paneles:<strong> 150 cm.</strong></li>
-                          <li>Altura de fijos 201 cm.</li>
+                          <li>Altura de fijos <strong>180 cm.</strong> </li>
+                          <li>Fijación a piso.</li>
+                        </ul>
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-outline-primary" data-dismiss="modal">Cerrar</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>     
+              <!-- Fin Modal -->
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- Modelo Estandar 190 -->
+      <div class="col-md-3 mb-5">
+        <div class="card h-100">
+          <div class="card-body">
+            <img src="./img/modelos/estandar190.jpg" class="rounded" width="99%" alt="">
+            <h5 class="card-title mt-4 font-weight-bold">Estándar 190</h5>
+            <p class="card-text">
+              Fijación a piso <br>
+              Refuerzo superior.
+              <!-- Boton Modal 
+                 NOTA: cambiar los id del modal: data-target, div class modal fade y h5 class modal-title.
+                 Tienen que ser únicos los id's -->
+              <button type="button" class="btn btn-sm btn-outline-primary mt-3" data-toggle="modal" data-target="#exampleModal2">Detalles</button>
+              <!-- Modal -->
+                <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel2" aria-hidden="true">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel2">Estándar 190</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      <div class="modal-body">
+                        <div class="text-center">
+                          <img src="./img/modelos/estandar190.jpg" class="rounded" alt="...">
+                        </div>
+                        <ul class="mt-3">
+                          <li>Altura de puertas y paneles:<strong> 150 cm.</strong></li>
+                          <li>Altura de fijos <strong>190 cm.</strong> </li>
+                          <li>Fijación a piso.</li>
+                          <li>Refuerzo superior de acero</li>
+                        </ul>
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-outline-primary" data-dismiss="modal">Cerrar</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>     
+              <!-- Fin Modal -->
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- Modelo Estandar 210 -->
+      <div class="col-md-3 mb-5">
+        <div class="card h-100">
+          <div class="card-body">
+            <img src="./img/modelos/estandar210.jpg" class="rounded" width="99%" alt="">
+            <h5 class="card-title mt-4 font-weight-bold">Estándar 210</h5>
+            <p class="card-text">
+              Fijación a piso <br>
+              Refuerzo superior.
+              <!-- Boton Modal 
+                 NOTA: cambiar los id del modal: data-target, div class modal fade y h5 class modal-title.
+                 Tienen que ser únicos los id's -->
+              <button type="button" class="btn btn-sm btn-outline-primary mt-3" data-toggle="modal" data-target="#exampleModal3">Detalles</button>
+              <!-- Modal -->
+                <div class="modal fade" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel3" aria-hidden="true">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel3">Estándar 210</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      <div class="modal-body">
+                        <div class="text-center">
+                          <img src="./img/modelos/estandar210.jpg" class="rounded" alt="...">
+                        </div>
+                        <ul class="mt-3">
+                          <li>Altura de puertas y paneles:<strong> 150 cm.</strong></li>
+                          <li>Altura de fijos <strong>210 cm.</strong> </li>
+                          <li>Fijación a piso.</li>
                           <li>Refuerzo superior de acero inoxidable.</li>
                         </ul>
                       </div>
@@ -108,34 +199,38 @@
           </div>
         </div>
       </div>
+      <!-- Modelo Imperial -->
       <div class="col-md-3 mb-5">
         <div class="card h-100">
           <div class="card-body">
-            <img src="./img/c-a-06.jpg" class="rounded" width="99%" alt="">
-            <h5 class="card-title mt-4 font-weight-bold">Estándar Reforzado</h5>
-            <p class="card-text">Fijación a piso.<br> 
-            Altura de 190 cm.<br> 
-            <!-- Boton Modal 
+            <img src="./img/modelos/imperial.jpg" class="rounded" width="99%" alt="">
+            <h5 class="card-title mt-4 font-weight-bold">Imperial</h5>
+            <p class="card-text">
+              Fijación a piso <br>
+              Refuerzo superior
+              <!-- Boton Modal 
                  NOTA: cambiar los id del modal: data-target, div class modal fade y h5 class modal-title.
                  Tienen que ser únicos los id's -->
-            <button type="button" class="btn btn-sm btn-outline-primary mt-3" data-toggle="modal" data-target="#exampleModal2">Mas info</button>
+              <button type="button" class="btn btn-sm btn-outline-primary mt-3" data-toggle="modal" data-target="#exampleModal4">Detalles</button>
               <!-- Modal -->
-                <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal fade" id="exampleModal4" tabindex="-1" aria-labelledby="exampleModalLabel4" aria-hidden="true">
                   <div class="modal-dialog">
                     <div class="modal-content">
                       <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Estándar Reforzado 190</h5>
+                        <h5 class="modal-title" id="exampleModalLabel4">Imperial</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                           <span aria-hidden="true">&times;</span>
                         </button>
                       </div>
                       <div class="modal-body">
                         <div class="text-center">
-                          <img src="./img/c-a-01.jpg" class="rounded" alt="...">
+                          <img src="./img/modelos/imperial.jpg" class="rounded" alt="...">
                         </div>
                         <ul class="mt-3">
-                          <li>Altura de puertas y paneles:<strong> 150 cm.</strong></li>
-                          <li>Altura de 190 cm.</li>
+                          <li>Altura de puertas y paneles:<strong> 180 cm.</strong></li>
+                          <li>Altura de fijos <strong>190 cm.</strong> </li>
+                          <li>Arrastre de puertas <strong>10 cm.</strong> </li>
+                          <li>Fijación a piso.</li>
                           <li>Refuerzo superior de acero inoxidable.</li>
                         </ul>
                       </div>
@@ -146,58 +241,152 @@
                   </div>
                 </div>     
               <!-- Fin Modal -->
+            </p>
           </div>
         </div>
       </div>
+    </div>
+  </div>
+  <!-- Segunda fila de modelos -->
+  <div class="container">
+       <div class="row">
+      <!-- Modelo Colgante -->
       <div class="col-md-3 mb-5">
         <div class="card h-100">
           <div class="card-body">
-            <img src="./img/c-a-01.jpg" class="rounded" width="99%" alt="">
-            <h5 class="card-title mt-4 font-weight-bold">Modelo 7</h5>
+            <img src="./img/modelos/colgante.jpg" class="rounded" width="99%" alt="">
+            <h5 class="card-title mt-4 font-weight-bold">Colgante</h5>
             <p class="card-text">
+              Fijación a techo <br>
+              Atura de 210 cm.
               <!-- Boton Modal 
                  NOTA: cambiar los id del modal: data-target, div class modal fade y h5 class modal-title.
                  Tienen que ser únicos los id's -->
-              <button type="button" class="btn btn-sm btn-outline-primary" data-toggle="modal" data-target="#exampleModal">Mas info</button>
-          </p>
-          <!-- Modal -->
-          <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalLabel">Detalles</h5>
-                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                  </button>
-                </div>
-                <div class="modal-body">
-                  <div class="text-center">
-                    <img src="./img/c-a-01.jpg" class="rounded" alt="...">
+              <button type="button" class="btn btn-sm btn-outline-primary mt-3" data-toggle="modal" data-target="#exampleModal5">Detalles</button>
+              <!-- Modal -->
+                <div class="modal fade" id="exampleModal5" tabindex="-1" aria-labelledby="exampleModalLabel5" aria-hidden="true">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel5">Colgante</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      <div class="modal-body">
+                        <div class="text-center">
+                          <img src="./img/modelos/colgante.jpg" class="rounded" alt="...">
+                        </div>
+                        <ul class="mt-3">
+                          <li>Altura de puertas y paneles:<strong> 150 cm.</strong></li>
+                          <li>Altura de fijos <strong>210 cm.</strong> </li>
+                          <li>Fijación a techo.</li>
+                          <li>Arrastre de puertas <strong>30 cm.</strong> </li>
+                        </ul>
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-outline-primary" data-dismiss="modal">Cerrar</button>
+                      </div>
+                    </div>
                   </div>
-                  <ul class="mt-3">
-                    <li>Altura de puertas y paneles: 150 cm.</li>
-                    <li>Altura de fijos 201 cm.</li>
-                    <li>Refuerzo superior de acero inoxidable.</li>
-                  </ul>
-                </div>
-                <div class="modal-footer">
-                  <button type="button" class="btn btn-outline-primary" data-dismiss="modal">Cerrar</button>
-                </div>
-              </div>
-            </div>
-          </div>
+                </div>     
+              <!-- Fin Modal -->
+            </p>
           </div>
         </div>
       </div>
+      <!-- Modelo Regadera -->
       <div class="col-md-3 mb-5">
         <div class="card h-100">
           <div class="card-body">
-            <img src="./img/c-a-02.jpg" class="rounded" width="99%" alt="">
-            <h5 class="card-title mt-4 font-weight-bold">Modelo 8</h5>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <img src="./img/modelos/regadera.jpg" class="rounded" width="99%" alt="">
+            <h5 class="card-title mt-4 font-weight-bold">Regadera</h5>
+            <p class="card-text">
+              Fijación a piso <br>
+              Altura de 180 cm.
+              <!-- Boton Modal 
+                 NOTA: cambiar los id del modal: data-target, div class modal fade y h5 class modal-title.
+                 Tienen que ser únicos los id's -->
+              <button type="button" class="btn btn-sm btn-outline-primary mt-3" data-toggle="modal" data-target="#exampleModal6">Detalles</button>
+              <!-- Modal -->
+                <div class="modal fade" id="exampleModal6" tabindex="-1" aria-labelledby="exampleModalLabel6" aria-hidden="true">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel6">Regadera</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      <div class="modal-body">
+                        <div class="text-center">
+                          <img src="./img/modelos/regadera.jpg" class="rounded" alt="...">
+                        </div>
+                        <ul class="mt-3">
+                          <li>Altura de puertas:<strong> 170 cm.</strong></li>
+                          <li>Altura de paneles laterales: <strong>180 cm.</strong> </li>
+                          <li>Altura de fijos: <strong>180 cm.</strong> </li>
+                          <li>Arrastre de puertas: <strong>10 cm.</strong> </li>
+                          <li>Fijación a piso.</li>
+                        </ul>
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-outline-primary" data-dismiss="modal">Cerrar</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>     
+              <!-- Fin Modal -->
+            </p>
           </div>
         </div>
       </div>
+      <!-- Modelo Kids -->
+      <div class="col-md-3 mb-5">
+        <div class="card h-100">
+          <div class="card-body">
+            <img src="./img/modelos/kids.jpg" class="rounded" width="99%" alt="">
+            <h5 class="card-title mt-4 font-weight-bold">Kids</h5>
+            <p class="card-text">
+              Fijación a piso <br>
+              Altura de 150 cm.
+              <!-- Boton Modal 
+                 NOTA: cambiar los id del modal: data-target, div class modal fade y h5 class modal-title.
+                 Tienen que ser únicos los id's -->
+              <button type="button" class="btn btn-sm btn-outline-primary mt-3" data-toggle="modal" data-target="#exampleModal7">Detalles</button>
+              <!-- Modal -->
+                <div class="modal fade" id="exampleModal7" tabindex="-1" aria-labelledby="exampleModalLabel7" aria-hidden="true">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel7">Kids</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      <div class="modal-body">
+                        <div class="text-center">
+                          <img src="./img/modelos/kids.jpg" class="rounded" alt="...">
+                        </div>
+                        <ul class="mt-3">
+                          <li>Altura de puertas y paneles: <strong>130 cm.</strong></li>
+                          <li>Altura de fijos: <strong>150 cm.</strong> </li>
+                          <li>Arrastre de puertas: <strong>20 cm.</strong> </li>
+                          <li>Fijación a piso.</li>
+                        </ul>
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-outline-primary" data-dismiss="modal">Cerrar</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>     
+              <!-- Fin Modal -->
+            </p>
+          </div>
+        </div>
+      </div>
+      
     </div>
   </div>
   
@@ -212,10 +401,10 @@
       </div>
       <div class="col-lg-7">
         <h4 class="font-weight-normal">Agenda una visita a obra</h4>
-        <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it
-          makes a great use of the standard Bootstrap core components. Feel free to use this template for any project
-          you want!</p>
-        <a class="btn btn-outline-primary" href="#!">Agendar</a>
+        <p>Proporciona los datos de tu obra y agenda una cita con nuestros expertos
+          para asesorarte en tu proyecto <strong>sin costo.</strong>
+        </p>
+        <a class="btn btn-outline-primary" href="agenda.php">Agendar</a>
       </div>
       <div class="col-lg-3">
         <img src="./img/person_main.svg" alt="Agenda una Cita">
@@ -227,10 +416,9 @@
       </div>
       <div class="col-lg-7">
         <h4 class="font-weight-normal">Sube tu plano</h4>
-        <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it
-          makes a great use of the standard Bootstrap core components. Feel free to use this template for any project
-          you want!</p>
-        <a class="btn btn-outline-primary" href="#!">Subir</a>
+        <p>Envianos tu plano en formato <strong>.dwg</strong> (AutoCad) o en <strong>.pdf</strong> con las
+      medidas de tu proyecto.</p>
+        <a class="btn btn-outline-primary" href="sube-tu-plano.php">Subir</a>
       </div>
       <div class="col-lg-3">
         <img src="./img/cloud_main.svg" alt="Sube tu plano">
@@ -242,10 +430,8 @@
       </div>
       <div class="col-lg-7">
         <h4 class="font-weight-normal">Cotiza en línea</h4>
-        <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it
-          makes a great use of the standard Bootstrap core components. Feel free to use this template for any project
-          you want!</p>
-        <a class="btn btn-outline-primary" href="#!">Cotizar</a>
+        <p>Precios al instante, puedes obtener un estimado de tu proyecto, solo proporciona los datos requeridos.</p>
+        <a class="btn btn-outline-primary" href="cotizador.php">Cotizar</a>
       </div>
       <div class="col-lg-3">
         <img src="./img/sys_main.svg" alt="Cotiza tu proyecto el línea">

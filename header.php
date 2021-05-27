@@ -65,7 +65,7 @@
                                     <a class="nav-link opc-nav-normal" href="modelos-materiales.php">Modelos</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link opc-nav-normal" href="colores-acabados.php">Acabados</a>
+                                    <a class="nav-link opc-nav-normal" href="colores-acabados.php">Colores</a>
                                 </li>
                             </ul>
                             <ul class="navbar-nav my-lg-0">
