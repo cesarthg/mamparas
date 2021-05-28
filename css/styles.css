@@ -111,3 +111,13 @@ i.icon-mamp {
   padding-top: 23px !important;
   background-color: #F2F2F2 !important;
 }
+#coloresbase img {
+  height: 150px;
+}
+#coloresbase h3 {
+  font-weight: 700;
+}
+#coloresbase h5 {
+  font-weight: 400;
+  font-size: smaller;
+}
