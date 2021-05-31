@@ -73,7 +73,7 @@
             <h5 class="card-title mt-4 font-weight-bold">Estándar</h5>
             <p class="card-text">
               Fijación a piso <br>
-              Atura de 180 cm.
+              Atura de 180 cm. <br>
               <!-- Boton Modal 
                  NOTA: cambiar los id del modal: data-target, div class modal fade y h5 class modal-title.
                  Tienen que ser únicos los id's -->
@@ -258,7 +258,7 @@
             <h5 class="card-title mt-4 font-weight-bold">Colgante</h5>
             <p class="card-text">
               Fijación a techo <br>
-              Atura de 210 cm.
+              Atura de 210 cm. <br>
               <!-- Boton Modal 
                  NOTA: cambiar los id del modal: data-target, div class modal fade y h5 class modal-title.
                  Tienen que ser únicos los id's -->
