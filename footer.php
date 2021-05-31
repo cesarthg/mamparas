@@ -6,16 +6,16 @@
         <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
         <div class="carousel-inner w-100" role="listbox">
             <div class="carousel-item row no-gutters active">
-                <div class="col-3 float-left"><img class="img-fluid" src="./img/img-01.jpg"></div>
-                <div class="col-3 float-left"><img class="img-fluid" src="./img/img-02.jpg"></div>
-                <div class="col-3 float-left"><img class="img-fluid" src="./img/img-03.jpg"></div>
-                <div class="col-3 float-left"><img class="img-fluid" src="./img/img-04.jpg"></div>
+                <div class="col-3 float-left"><img class="img-fluid" src="./img/clientes/cf.jpg" alt="Club France"></div>
+                <div class="col-3 float-left"><img class="img-fluid" src="./img/clientes/danubio.jpg" alt="Restaurate Danubio"></div>
+                <div class="col-3 float-left"><img class="img-fluid" src="./img/clientes/destiladora.jpg" alt="Destiladora"></div>
+                <div class="col-3 float-left"><img class="img-fluid" src="./img/clientes/escuelanormal.jpg" alt="Escuela Normal de Naucalpan"></div>
             </div>
             <div class="carousel-item row no-gutters">
-                <div class="col-3 float-left"><img class="img-fluid" src="./img/img-05.jpg"></div>
-                <div class="col-3 float-left"><img class="img-fluid" src="./img/img-06.jpg"></div>
-                <div class="col-3 float-left"><img class="img-fluid" src="./img/img-07.jpg"></div>
-                <div class="col-3 float-left"><img class="img-fluid" src="./img/img-08.jpg"></div>
+                <div class="col-3 float-left"><img class="img-fluid" src="./img/clientes/jardindelarte.jpg" alt="Jardin del Arte"></div>
+                <div class="col-3 float-left"><img class="img-fluid" src="./img/clientes/santander.jpg" alt="Banco Santaner"></div>
+                <div class="col-3 float-left"><img class="img-fluid" src="./img/clientes/unterbau.jpg" alt="Unterbau Construcciones"></div>
+                <div class="col-3 float-left"><img class="img-fluid" src="./img/clientes/cf.jpg" alt="Club France"></div>
             </div>
         </div>
     </div>
