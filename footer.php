@@ -59,7 +59,8 @@
         </div>
       </div>
   </footer>
-
+  <!-- Script Texto -->
+  <script src="./js/script-texto.js"></script>
   <!-- Optional JavaScript; choose one of the two! -->
 
   <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->

@@ -22,7 +22,7 @@
         <div class="container-fluid">
             <div class="row cuadro-1">
                 <div class="col">
-                    <span>COTIZA EN LÍNEA</span>
+                    <span id="txt_top">Cotizaciones en 24 Hrs.</span>
                 </div>
             </div>
             <!-- Inicia segunda fila con Logo, buscador y carrito-->
