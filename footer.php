@@ -49,8 +49,7 @@
           <p>
             <a href="politicas-de-privacidad.php" class="link-mamp">Políticas de Privacidad</a><br>
             <a href="politicas-de-venta.php" class="link-mamp">Políticas de Venta</a><br>
-            <a href="politicas.php" class="link-mamp">Políticas de Entrega</a><br>
-            <a href="politicas.php" class="link-mamp">Políticas de Devolución</a>
+            <a href="preguntas-frecuentes.php" class="link-mamp">Preguntas frecuentes</a><br>
           </p>
         </div>
         </div>
