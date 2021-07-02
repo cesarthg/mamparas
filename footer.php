@@ -30,7 +30,7 @@
     <div class="container">
       <div class="row mb-4">
         <div class="col-lg-12 col-md-6 col-xl-1 ml-2">
-          <img src="./img/logo-mamp-bco.svg" height="40px" alt="Logo Mamparas by Hygolet">
+          <img src="./img/logo-mamp-bco-up.svg" height="40px" alt="Logo Mamparas by Hygolet">
         </div>
       </div>
       <div class="row m-0 text-white">
@@ -47,20 +47,19 @@
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 mb-5 mb-lg-0 text-right txt-footer ">
           <p>
-            <a href="#!" class="link-mamp">Preguntas frecuentes</a><br>
-            <a href="#!" class="link-mamp">Aviso de Privacidad</a><br>
-            <a href="#!" class="link-mamp">Condiciones Generales</a><br>
-            <a href="#!" class="link-mamp">Uso de Sitio</a>
+            <a href="politicas.php" class="link-mamp">Políticas de Privacidad</a><br>
+            <a href="politicas.php" class="link-mamp">Políticas de Venta</a><br>
+            <a href="politicas.php" class="link-mamp">Políticas de Entrega</a><br>
+            <a href="politicas.php" class="link-mamp">Políticas de Devolución</a>
           </p>
         </div>
         </div>
         <div class="row justify-content-md-center text-white mt-4 mb-1">
-          <p>Derechos reservados Hygolet de México S.A. de C.V. 2021</p>
+          <p>Derechos reservados Hygolet de México, S.A. de C.V. 2021</p>
         </div>
       </div>
   </footer>
-  <!-- Script Texto -->
-  <script src="./js/script-texto.js"></script>
+
   <!-- Optional JavaScript; choose one of the two! -->
 
   <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->

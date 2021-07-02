@@ -52,6 +52,9 @@ body {
 .i-telefono {
   height: 26px;
 }
+.i-whats,.i-insta,.i-face {
+  height: 18px;
+}
 .form-busqueda {
   display: block;
   width: 100%;

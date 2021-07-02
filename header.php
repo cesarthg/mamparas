@@ -10,7 +10,7 @@
     integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;600;700;900&display=swap" rel="stylesheet">  <link rel="stylesheet" href="./css/styles.css">
-  <link rel="shortcut icon" href="./img/favicon.png">
+  <link rel="shortcut icon" href="./img/favicon.1.png">
   <title>Mamparas</title>
 </head>
 
@@ -30,8 +30,8 @@
                 <!-- Logo -->
             <div class="row mt-3 align-items-center">
                 <div class="col-12 col-sm-6 col-md-8 col-lg-7 offset-lg-1 col-xl-7 offset-xl-1 cuadro-logo">
-                    <a href="#!">
-                        <img src="./img/logo-mamp.svg" alt="Logo Mamparas">
+                    <a href="index.php">
+                        <img src="./img/logo-mamparas_up.svg" alt="Logo Mamparas">
                     </a>
                 </div>
                 <!-- Telefono contacto -->
@@ -41,8 +41,18 @@
                             <a href="mailto:ventas@hygolet.com.mx" class="link-contacto">
                                 <img src="https://mueblesparabano.mx/publico/imagenes/tema/icono-email.svg" alt="correo" class="i-correo">
                             </a>
+                            
                             <a href="tel:5556053214" class="link-contacto">
                                 <img src="https://mueblesparabano.mx/publico/imagenes/tema/icono-telefono.svg" alt="telefono" class="i-telefono"> 55 5605 3214
+                            </a>
+                            <a href="https://wa.me/message/2BSB6JEXVBAJE1" class="link-contacto">
+                                <img src="./img/icono-whatsapp-2.svg" alt="Whatsapp" class="i-whats">
+                            </a>
+                            <a href="https://www.facebook.com/HygoletMexico" class="link-contacto">
+                                <img src="./img/icono-facebook.svg" alt="Whatsapp" class="i-face">
+                            </a>
+                            <a href="https://www.instagram.com/hygoletdemexico/" class="link-contacto">
+                                <img src="./img/icono-instagram.svg" alt="Whatsapp" class="i-insta">
                             </a>
                         </div>
                     </div>
