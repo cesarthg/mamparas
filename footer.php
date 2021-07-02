@@ -47,8 +47,8 @@
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 mb-5 mb-lg-0 text-right txt-footer ">
           <p>
-            <a href="politicas.php" class="link-mamp">Políticas de Privacidad</a><br>
-            <a href="politicas.php" class="link-mamp">Políticas de Venta</a><br>
+            <a href="politicas-de-privacidad.php" class="link-mamp">Políticas de Privacidad</a><br>
+            <a href="politicas-de-venta.php" class="link-mamp">Políticas de Venta</a><br>
             <a href="politicas.php" class="link-mamp">Políticas de Entrega</a><br>
             <a href="politicas.php" class="link-mamp">Políticas de Devolución</a>
           </p>

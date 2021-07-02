@@ -2,7 +2,7 @@
     include_once('header.php');
 ?>
 
-<div class="container">
+<div class="container mt-5 mb-5">
     <div class="row my-5">
         <div class="col-lg-3">
             <h1>Política de Privacidad</h1>
@@ -81,8 +81,8 @@
             No será necesario el consentimiento expreso para el tratamiento de Datos Personales cuando su 
             manejo tenga el propósito de cumplir obligaciones derivadas de una relación jurídica entre el 
             Titular y el Responsable, ni en los casos que contempla el artículo 10 de la Ley. Lo anterior 
-            sin perjuicio de la facultad que posee el Titular para el ejercicio de los Derechos ARCO en t
-            érminos de la Ley. <br> El Responsable informa que toda comunicación por correo electrónico no 
+            sin perjuicio de la facultad que posee el Titular para el ejercicio de los Derechos ARCO en 
+            términos de la Ley. <br> El Responsable informa que toda comunicación por correo electrónico no 
             protegida realizada a través de Internet puede ser objeto de intercepción, pérdida o posibles 
             alteraciones en cuyo caso, el Titular no podrá exigir al Responsable alguna indemnización por 
             cualquier daño resultante por la intercepción, sustracción, pérdida o alteración relacionada 
@@ -94,7 +94,7 @@
             tratamiento de sus Datos Personales con respecto a las finalidades descritas en el presente 
             aviso de privacidad que no sean necesarias, ni dieron origen a la relación jurídica con el 
             Responsable a través de una solicitud a dicha negativa a la dirección de correo electrónico
-            ventas@hygolet.com.mx.
+            <strong>ventas@hygolet.com.mx.</strong>
             </p>
         </div>
         <div class="col-lg-3">
@@ -107,7 +107,7 @@
                 encuentren a su alcance para evitar la pérdida, mal uso, alteración, acceso no autorizado y 
                 robo de los Datos Personales proporcionados por el Titular. <br>
                 Usted podrá limitar el uso y divulgación de sus Datos Personales a través del envío de un 
-                correo electrónico a la dirección ventas@hygolet.com.mx en donde podrá explicar qué datos 
+                correo electrónico a la dirección <strong>ventas@hygolet.com.mx</strong> en donde podrá explicar qué datos 
                 y su deseo de que los mismos no sean utilizados para recibir comunicados o promociones por 
                 parte del Responsable.
             </p>
