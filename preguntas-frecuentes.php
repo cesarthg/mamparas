@@ -77,7 +77,54 @@
 </div>
 </div>
 
-
+<!-- Opciones -->
+<div class="container bg-light">
+    <div class="row ml-auto">
+      <h2 class="font-weight-bold mt-2">Opciones para cotizar</h2>
+    </div>
+    <div class="row align-items-center my-5">
+      <div class="col-lg-2">
+        <img src="./img/01-main.svg" alt="Opción 1">
+      </div>
+      <div class="col-lg-7">
+        <h4 class="font-weight-normal">Agenda una visita a obra</h4>
+        <p>Proporciona los datos de tu obra y agenda una cita con nuestros expertos
+          para asesorarte en tu proyecto <strong>sin costo.</strong>
+        </p>
+        <a class="btn btn-outline-primary" href="agenda.php">Agendar</a>
+      </div>
+      <div class="col-lg-3">
+        <img src="./img/person_main.svg" alt="Agenda una Cita">
+      </div>
+    </div>
+    <div class="row align-items-center my-5">
+      <div class="col-lg-2">
+        <img src="./img/02-main.svg" alt="Opción 2">
+      </div>
+      <div class="col-lg-7">
+        <h4 class="font-weight-normal">Sube tu plano</h4>
+        <p>Envianos tu plano en formato <strong>.dwg</strong> (AutoCad) o en <strong>.pdf</strong> con las
+      medidas de tu proyecto.</p>
+        <a class="btn btn-outline-primary" href="sube-tu-plano.php">Subir</a>
+      </div>
+      <div class="col-lg-3">
+        <img src="./img/cloud_main.svg" alt="Sube tu plano">
+      </div>
+    </div>
+    <div class="row align-items-center my-5">
+      <div class="col-lg-2">
+        <img src="./img/03-main.svg" alt="Opción 3">
+      </div>
+      <div class="col-lg-7">
+        <h4 class="font-weight-normal">Cotiza en línea</h4>
+        <p>Precios al instante, puedes obtener un estimado de tu proyecto, solo proporciona los datos requeridos.</p>
+        <a class="btn btn-outline-primary" href="cotizador.php">Cotizar</a>
+      </div>
+      <div class="col-lg-3">
+        <img src="./img/sys_main.svg" alt="Cotiza tu proyecto el línea">
+      </div>
+    </div>
+  </div>
 <?php
     include_once('footer.php');
 ?>

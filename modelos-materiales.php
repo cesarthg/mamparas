@@ -8,9 +8,9 @@
       <div class="col-lg-6">
           <img class="img-fluid rounded mb-4 mb-lg-0" src="./img/final-01-mamp.jpg" alt="Colores y Acabados de Mampras" /></div>
       <div class="col-lg-6">
-        <h1 class="font-weight-bold py-2">Material: Fenólico</h1>
+        <h1 class="font-weight-bold py-2">Compacto Fenólico</h1>
         <p>
-        La versatilidad del Compacto Fenólico es enorme, su resistencia a las agresiones del ambiente y de los usuarios le permite varios usos y aplicaciones.
+        Su versatilidad es enorme, su resistencia a las agresiones del ambiente y de los usuarios le permite varios usos y aplicaciones.
         </p>
        <p>No existe en el mercado internacional, un material con más altas calificaciones y certificaciones.</p>
         <p>El Compacto Fenólico mantiene sus grandes prestaciones durante su larga vida útil.</p>
@@ -112,7 +112,7 @@
       <div class="col-md-3 mb-5">
         <div class="card h-100">
           <div class="card-body">
-            <img src="./img/modelos/estandar3.jpg" class="rounded" width="99%" alt="">
+            <img src="./img/modelos/estandar.jpg" class="rounded" width="99%" alt="">
             <h5 class="card-title mt-4 font-weight-bold">Estándar</h5>
             <p class="card-text">
               Fijación a piso <br>
@@ -137,14 +137,13 @@
                         <div id="estandar" class="carousel slide" data-ride="carousel">
                           <div class="carousel-inner">
                             <div class="carousel-item active">
-                              <img src="./img/modelos/estandar2.jpg" class="d-block w-100" alt="...">
+                              <img src="./img/modelos/estandar.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
-                              <img src="./img/modelos/estandar2.jpg" class="d-block w-100" alt="...">
+                              <img src="./img/modelos/estandar-patas.jpg" class="d-block w-100" alt="...">
                             </div>
                           </div>
-                          <a class="carousel-control-prev" href="#estandar" role="button" data-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <a class="carousel-control-prev" href="#estandar" role="button" data-slide="prev">                           
                             <span class="sr-only">Previous</span>
                           </a>
                           <a class="carousel-control-next" href="#estandar" role="button" data-slide="next">
@@ -177,7 +176,7 @@
       <div class="col-md-3 mb-5">
         <div class="card h-100">
           <div class="card-body">
-            <img src="./img/modelos/estandar190.jpg" class="rounded" width="99%" alt="">
+            <img src="./img/modelos/estandar190-zoclo.jpg" class="rounded" width="99%" alt="">
             <h5 class="card-title mt-4 font-weight-bold">Estándar 190</h5>
             <p class="card-text">
               Fijación a piso <br>
@@ -202,10 +201,10 @@
                         <div id="estandar190" class="carousel slide" data-ride="carousel">
                           <div class="carousel-inner">
                             <div class="carousel-item active">
-                              <img src="./img/modelos/estandar190.jpg" class="d-block w-100" alt="...">
+                              <img src="./img/modelos/estandar190-zoclo.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
-                              <img src="./img/modelos/estandar190.jpg" class="d-block w-100" alt="...">
+                              <img src="./img/modelos/estandar190-patas.jpg" class="d-block w-100" alt="...">
                             </div>
                           </div>
                           <a class="carousel-control-prev" href="#estandar190" role="button" data-slide="prev">
@@ -243,7 +242,7 @@
       <div class="col-md-3 mb-5">
         <div class="card h-100">
           <div class="card-body">
-            <img src="./img/modelos/estandar210.jpg" class="rounded" width="99%" alt="">
+            <img src="./img/modelos/estandar210-zoclo.jpg" class="rounded" width="99%" alt="">
             <h5 class="card-title mt-4 font-weight-bold">Estándar 210</h5>
             <p class="card-text">
               Fijación a piso <br>
@@ -268,10 +267,10 @@
                         <div id="estandar210" class="carousel slide" data-ride="carousel">
                           <div class="carousel-inner">
                             <div class="carousel-item active">
-                              <img src="./img/modelos/estandar210.jpg" class="d-block w-100" alt="...">
+                              <img src="./img/modelos/estandar210-zoclo.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
-                              <img src="./img/modelos/estandar210.jpg" class="d-block w-100" alt="...">
+                              <img src="./img/modelos/estandar210-patas.jpg" class="d-block w-100" alt="...">
                             </div>
                           </div>
                           <a class="carousel-control-prev" href="#estandar210" role="button" data-slide="prev">
@@ -309,7 +308,7 @@
       <div class="col-md-3 mb-5">
         <div class="card h-100">
           <div class="card-body">
-            <img src="./img/modelos/imperial.jpg" class="rounded" width="99%" alt="">
+            <img src="./img/modelos/imperial-zoclo.jpg" class="rounded" width="99%" alt="">
             <h5 class="card-title mt-4 font-weight-bold">Imperial</h5>
             <p class="card-text">
               Fijación a piso <br>
@@ -334,10 +333,10 @@
                         <div id="imperial" class="carousel slide" data-ride="carousel">
                           <div class="carousel-inner">
                             <div class="carousel-item active">
-                              <img src="./img/modelos/imperial.jpg" class="d-block w-100" alt="...">
+                              <img src="./img/modelos/imperial-zoclo.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
-                              <img src="./img/modelos/imperial.jpg" class="d-block w-100" alt="...">
+                              <img src="./img/modelos/imperial-patas.jpg" class="d-block w-100" alt="...">
                             </div>
                           </div>
                           <a class="carousel-control-prev" href="#imperial" role="button" data-slide="prev">
@@ -445,7 +444,7 @@
       <div class="col-md-3 mb-5">
         <div class="card h-100">
           <div class="card-body">
-            <img src="./img/modelos/regadera.jpg" class="rounded" width="99%" alt="">
+            <img src="./img/modelos/regadera-zoclo.jpg" class="rounded" width="99%" alt="">
             <h5 class="card-title mt-4 font-weight-bold">Regadera</h5>
             <p class="card-text">
               Fijación a piso <br>
@@ -470,10 +469,10 @@
                         <div id="regadera" class="carousel slide" data-ride="carousel">
                           <div class="carousel-inner">
                             <div class="carousel-item active">
-                              <img src="./img/modelos/regadera.jpg" class="d-block w-100" alt="...">
+                              <img src="./img/modelos/regadera-zoclo.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
-                              <img src="./img/modelos/regadera.jpg" class="d-block w-100" alt="...">
+                              <img src="./img/modelos/regadera-patas.jpg" class="d-block w-100" alt="...">
                             </div>
                           </div>
                           <a class="carousel-control-prev" href="#regadera" role="button" data-slide="prev">
@@ -511,7 +510,7 @@
       <div class="col-md-3 mb-5">
         <div class="card h-100">
           <div class="card-body">
-            <img src="./img/modelos/kids.jpg" class="rounded" width="99%" alt="">
+            <img src="./img/modelos/kids-zoclo.jpg" class="rounded" width="99%" alt="">
             <h5 class="card-title mt-4 font-weight-bold">Kids</h5>
             <p class="card-text">
               Fijación a piso <br>
@@ -536,10 +535,10 @@
                         <div id="kids" class="carousel slide" data-ride="carousel">
                           <div class="carousel-inner">
                             <div class="carousel-item active">
-                              <img src="./img/modelos/kids.jpg" class="d-block w-100" alt="...">
+                              <img src="./img/modelos/kids-zoclo.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
-                              <img src="./img/modelos/kids.jpg" class="d-block w-100" alt="...">
+                              <img src="./img/modelos/kids-patas.jpg" class="d-block w-100" alt="...">
                             </div>
                           </div>
                           <a class="carousel-control-prev" href="#kids" role="button" data-slide="prev">

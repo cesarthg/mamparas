@@ -1,0 +1,24 @@
+.cuadro-1 {
+    background-color: #1D3C4E;
+}
+.i-telefono {
+    height: 26px;
+}
+.i-whats,.i-insta,.i-face,.i-correo {
+    height: 18px;
+}
+.nav-header > div > ul > li > a {
+
+    padding-left: 0px !important;
+    padding-right: 40px !important;
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+    font-size: 16px !important;
+}
+.nav-header {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  padding-bottom: 19px !important;
+  padding-top: 23px !important;
+  background-color: #F2F2F2 !important;
+}

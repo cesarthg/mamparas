@@ -11,31 +11,16 @@ body {
 .nav-clr {
   color: #316582;
 }
-.main-footer {
-  background: #316582;
-}
-.carousel-inner img {
-  margin: auto;
-}
-.txt-footer {
-  color: #fff;
-}
+
 .prev-clr {
   background: #1d3c4e;
 }
-.link-mamp {
-  color: #ffffff;
-}
-.link-mamp:hover {
-  color: #ffffff;
-}
+
 /* .div-deco {
   height: 1rem;
   background: #1d3c4e;
 } */
-.cuadro-1 {
-  background-color: #1D3C4E;
-}
+
 .cuadro-1 > div > span {
   color: #FFFFFF;
   font-family: 'Montserrat', Fallback, sans-serif;
@@ -46,15 +31,7 @@ body {
   padding-bottom: 10px;
   text-align: center;
 }
-.i-correo {
-  height: 18px;
-}
-.i-telefono {
-  height: 26px;
-}
-.i-whats,.i-insta,.i-face {
-  height: 18px;
-}
+
 .form-busqueda {
   display: block;
   width: 100%;
@@ -99,21 +76,7 @@ i.icon-mamp {
   text-decoration: none;
   color: #095D82;
 }
-.nav-header > div > ul > li > a {
 
-    padding-left: 0px !important;
-    padding-right: 40px !important;
-    padding-top: 0px !important;
-    padding-bottom: 10px !important;
-    font-size: 16px !important;
-}
-.nav-header {
-  padding-left: 0px !important;
-  padding-right: 0px !important;
-  padding-bottom: 19px !important;
-  padding-top: 23px !important;
-  background-color: #F2F2F2 !important;
-}
 #coloresbase img {
   height: 150px;
 }
