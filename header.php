@@ -21,8 +21,11 @@
         <!-- Inicia primera fila barra superior -->
         <div class="container-fluid">
             <div class="row cuadro-1">
-                <div class="col">
-                    <span id="txt_top">Cotizaciones en 24 Hrs.</span>
+                <div class="col" >
+                    <span >
+                    Para proyectos especiales, contactanos.
+                    </span>
+                    
                 </div>
             </div>
             <!-- Inicia segunda fila con Logo, buscador y carrito-->

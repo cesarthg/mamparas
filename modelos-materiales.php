@@ -18,9 +18,52 @@
     </div>
     
   </div>
-  <!-- Modelos -->
+  <!-- Caracteristicas -->
+  
   <div class="container">
     <div class="row">
+      <div class="col-12">
+        <h2 class="font-weight-bold py-2">Carcterísticas</h2>
+      </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3 mb-5">
+          <div class="card h-100">
+            <div class="card-body">
+              <img src="./img/icono-no-visual.svg" class="rounded" width="99%" alt="">
+              <h5 class="card-title mt-4 font-weight-bold">Bloqueo Visual</h5>
+              <p class="card-text">El machimbrado en puertas y pilastras otorgan privacidad al usuario, evitando la visual al interior.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div class="card h-100">
+            <div class="card-body">
+              <img src="./img/icono-no-grafiti.svg" class="rounded" width="99%" alt="">
+              <h5 class="card-title mt-4 font-weight-bold">Antigrfitti</h5>
+              <p class="card-text">La superficie no porosa jamás permite la fijación o penetración tintas o pintura.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div class="card h-100">
+            <div class="card-body">
+              <img src="./img/icono-antibacterial.svg" class="rounded" width="99%" alt="">
+              <h5 class="card-title mt-4 font-weight-bold">Anti-bacterial</h5>
+              <p class="card-text">La cualidad higiénica de su superficie evita la proliferación de bacterias, virus o gérmenes.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 mb-5">
+          <div class="card h-100">
+            <div class="card-body">
+              <img src="./img/icono-impermeable.svg" class="rounded" width="99%" alt="">
+              <h5 class="card-title mt-4 font-weight-bold">Impermeable</h5>
+              <p class="card-text">El material sin absorción de liquídos y olores garantizando la higiene para las personas.</p>
+            </div>
+          </div>
+        </div>
+        
       <div class="col-md-3 mb-5">
         <div class="card h-100">
           <div class="card-body">
@@ -90,12 +133,33 @@
                       </div>
                       <div class="modal-body">
                         <div class="text-center">
-                          <img src="./img/modelos/estandar3.jpg" class="rounded" alt="...">
+                        <!-- Inicio galeria cambiar el id y los href que sean únicos. -->
+                        <div id="estandar" class="carousel slide" data-ride="carousel">
+                          <div class="carousel-inner">
+                            <div class="carousel-item active">
+                              <img src="./img/modelos/estandar2.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                              <img src="./img/modelos/estandar2.jpg" class="d-block w-100" alt="...">
+                            </div>
+                          </div>
+                          <a class="carousel-control-prev" href="#estandar" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="carousel-control-next" href="#estandar" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                          </a>
+                        </div>
+                         <!-- Fin galeria -->
                         </div>
                         <ul class="mt-3">
                           <li>Altura de puertas y paneles:<strong> 150 cm.</strong></li>
                           <li>Altura de fijos <strong>180 cm.</strong> </li>
                           <li>Fijación a piso.</li>
+                          <li>Arrastre de puertas y paneles de 30 cm.</li>
+                          <li>Opción a Zoclo o Patas de Acero</li>
                         </ul>
                       </div>
                       <div class="modal-footer">
@@ -134,13 +198,34 @@
                       </div>
                       <div class="modal-body">
                         <div class="text-center">
-                          <img src="./img/modelos/estandar190.jpg" class="rounded" alt="...">
+                          <!-- Inicio galeria cambiar el id y los href que sean únicos. -->
+                        <div id="estandar190" class="carousel slide" data-ride="carousel">
+                          <div class="carousel-inner">
+                            <div class="carousel-item active">
+                              <img src="./img/modelos/estandar190.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                              <img src="./img/modelos/estandar190.jpg" class="d-block w-100" alt="...">
+                            </div>
+                          </div>
+                          <a class="carousel-control-prev" href="#estandar190" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="carousel-control-next" href="#estandar190" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                          </a>
+                        </div>
+                         <!-- Fin galeria -->
                         </div>
                         <ul class="mt-3">
                           <li>Altura de puertas y paneles:<strong> 150 cm.</strong></li>
                           <li>Altura de fijos <strong>190 cm.</strong> </li>
                           <li>Fijación a piso.</li>
                           <li>Refuerzo superior de acero</li>
+                          <li>Arrastre de puertas y paneles de 30 cm.</li>
+                          <li>Opción a Zoclo o Patas de Acero</li>
                         </ul>
                       </div>
                       <div class="modal-footer">
@@ -179,13 +264,34 @@
                       </div>
                       <div class="modal-body">
                         <div class="text-center">
-                          <img src="./img/modelos/estandar210.jpg" class="rounded" alt="...">
+                          <!-- Inicio galeria cambiar el id y los href que sean únicos. -->
+                        <div id="estandar210" class="carousel slide" data-ride="carousel">
+                          <div class="carousel-inner">
+                            <div class="carousel-item active">
+                              <img src="./img/modelos/estandar210.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                              <img src="./img/modelos/estandar210.jpg" class="d-block w-100" alt="...">
+                            </div>
+                          </div>
+                          <a class="carousel-control-prev" href="#estandar210" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="carousel-control-next" href="#estandar210" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                          </a>
+                        </div>
+                         <!-- Fin galeria -->
                         </div>
                         <ul class="mt-3">
                           <li>Altura de puertas y paneles:<strong> 150 cm.</strong></li>
                           <li>Altura de fijos <strong>210 cm.</strong> </li>
                           <li>Fijación a piso.</li>
                           <li>Refuerzo superior de acero inoxidable.</li>
+                          <li>Arrastre de puertas y paneles de 30 cm.</li>
+                          <li>Opción a Zoclo o Patas de Acero</li>
                         </ul>
                       </div>
                       <div class="modal-footer">
@@ -224,7 +330,26 @@
                       </div>
                       <div class="modal-body">
                         <div class="text-center">
-                          <img src="./img/modelos/imperial.jpg" class="rounded" alt="...">
+                          <!-- Inicio galeria cambiar el id y los href que sean únicos. -->
+                        <div id="imperial" class="carousel slide" data-ride="carousel">
+                          <div class="carousel-inner">
+                            <div class="carousel-item active">
+                              <img src="./img/modelos/imperial.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                              <img src="./img/modelos/imperial.jpg" class="d-block w-100" alt="...">
+                            </div>
+                          </div>
+                          <a class="carousel-control-prev" href="#imperial" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="carousel-control-next" href="#imperial" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                          </a>
+                        </div>
+                         <!-- Fin galeria -->
                         </div>
                         <ul class="mt-3">
                           <li>Altura de puertas y paneles:<strong> 180 cm.</strong></li>
@@ -232,6 +357,7 @@
                           <li>Arrastre de puertas <strong>10 cm.</strong> </li>
                           <li>Fijación a piso.</li>
                           <li>Refuerzo superior de acero inoxidable.</li>
+                          <li>Opción a Zoclo o Patas de Acero</li>
                         </ul>
                       </div>
                       <div class="modal-footer">
@@ -275,13 +401,33 @@
                       </div>
                       <div class="modal-body">
                         <div class="text-center">
-                          <img src="./img/modelos/colgante.jpg" class="rounded" alt="...">
+                          <!-- Inicio galeria cambiar el id y los href que sean únicos. -->
+                        <div id="colgante" class="carousel slide" data-ride="carousel">
+                          <div class="carousel-inner">
+                            <div class="carousel-item active">
+                              <img src="./img/modelos/colgante.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                              <img src="./img/modelos/colgante.jpg" class="d-block w-100" alt="...">
+                            </div>
+                          </div>
+                          <a class="carousel-control-prev" href="#colgante" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="carousel-control-next" href="#colgante" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                          </a>
+                        </div>
+                         <!-- Fin galeria -->
                         </div>
                         <ul class="mt-3">
                           <li>Altura de puertas y paneles:<strong> 150 cm.</strong></li>
                           <li>Altura de fijos <strong>210 cm.</strong> </li>
                           <li>Fijación a techo.</li>
                           <li>Arrastre de puertas <strong>30 cm.</strong> </li>
+                          <li>Solo sujeción con zoclo.</li>
                         </ul>
                       </div>
                       <div class="modal-footer">
@@ -320,7 +466,26 @@
                       </div>
                       <div class="modal-body">
                         <div class="text-center">
-                          <img src="./img/modelos/regadera.jpg" class="rounded" alt="...">
+                          <!-- Inicio galeria cambiar el id y los href que sean únicos. -->
+                        <div id="regadera" class="carousel slide" data-ride="carousel">
+                          <div class="carousel-inner">
+                            <div class="carousel-item active">
+                              <img src="./img/modelos/regadera.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                              <img src="./img/modelos/regadera.jpg" class="d-block w-100" alt="...">
+                            </div>
+                          </div>
+                          <a class="carousel-control-prev" href="#regadera" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="carousel-control-next" href="#regadera" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                          </a>
+                        </div>
+                         <!-- Fin galeria -->
                         </div>
                         <ul class="mt-3">
                           <li>Altura de puertas:<strong> 170 cm.</strong></li>
@@ -328,6 +493,7 @@
                           <li>Altura de fijos: <strong>180 cm.</strong> </li>
                           <li>Arrastre de puertas: <strong>10 cm.</strong> </li>
                           <li>Fijación a piso.</li>
+                          <li>Opción a Zoclo o Patas de Acero</li>
                         </ul>
                       </div>
                       <div class="modal-footer">
@@ -366,13 +532,33 @@
                       </div>
                       <div class="modal-body">
                         <div class="text-center">
-                          <img src="./img/modelos/kids.jpg" class="rounded" alt="...">
+                          <!-- Inicio galeria cambiar el id y los href que sean únicos. -->
+                        <div id="kids" class="carousel slide" data-ride="carousel">
+                          <div class="carousel-inner">
+                            <div class="carousel-item active">
+                              <img src="./img/modelos/kids.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                              <img src="./img/modelos/kids.jpg" class="d-block w-100" alt="...">
+                            </div>
+                          </div>
+                          <a class="carousel-control-prev" href="#kids" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="carousel-control-next" href="#kids" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                          </a>
+                        </div>
+                         <!-- Fin galeria -->
                         </div>
                         <ul class="mt-3">
                           <li>Altura de puertas y paneles: <strong>130 cm.</strong></li>
                           <li>Altura de fijos: <strong>150 cm.</strong> </li>
                           <li>Arrastre de puertas: <strong>20 cm.</strong> </li>
                           <li>Fijación a piso.</li>
+                          <li>Opción a Zoclo o Patas de Acero</li>
                         </ul>
                       </div>
                       <div class="modal-footer">

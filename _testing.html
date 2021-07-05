@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script type="text/javascript">
+        var indice = 0;
+        frases = new Array();
+        frases[0] = "Mamparas EcoFriendly.";
+        frases[1] = "Instalamos en toda la República.";
+        frases[2] = "Para proyectos especiales, contáctanos.";
+        frases[3] = "Flete gratis* (solo en CDMX)";
+        frases[4] = "Lo último en tecnología para mamparas.";
+        
+        indice = Math.random()*(frases.length);
+        indice = Math.floor(indice);
+        
+        function rotar() {
+        if (indice == frases.length) {indice = 0;}
+        document.getElementById("rotando").innerHTML = frases[indice];
+        indice++;
+        setTimeout("rotar();",5000);
+        }
+        </script>
+        
+        <div id="rotando" style="height:60px;margin:0px auto;"></div>
+        <script type="text/javascript">rotar();</script>
+</body>
+</html>
