@@ -15,10 +15,8 @@
         <div class="col-lg-6">
           <h1 class="font-weight-bold py-2">Sube tu plano</h1>
           <p>
-            This is a template that is great for small businesses. It doesn't
-            have too much fancy flare to it, but it makes a great use of the
-            standard Bootstrap core components. Feel free to use this template
-            for any project you want!
+            Tus planos con medidas o croquis, son necesarios para cotizar tu proyecto y poder brindarte 
+            una asesoria adecuada.
           </p>
         </div>
       </div>
@@ -31,7 +29,7 @@
       <div class="row mt-3">
         <p>
           Puedes subir tu plano en formato <strong>.dwg</strong> (dibujo de
-          AutoCad) o en <strong>PDF</strong>.
+          AutoCad) o en <strong>PDF</strong><small> (Peso maximo del archivo 5 Mb.)</small>
         </p>
       </div>
       <div class="row mt-3">
@@ -65,10 +63,13 @@
               <label for="input-Modelo">Modelo de Mampara</label>
               <select class="form-control">
                 <option>Selecciona un modelo</option>
-                <option>Modelo 2</option>
-                <option>Modelo 3</option>
-                <option>Modelo 4</option>
-                <option>Modelo 5</option>
+                <option>Estándar</option>
+                <option>Estándar 190</option>
+                <option>Estándar 210</option>
+                <option>Imperial</option>
+                <option>Colgante</option>
+                <option>Regadera</option>
+                <option>Kids</option>
               </select>
             </div>
           </div>
@@ -84,8 +85,7 @@
                   class="custom-file-label"
                   for="inputGroupFile02"
                   aria-describedby=""
-                  >Selecciona tu archivo</label
-                >
+                  >Selecciona tu archivo</label>
               </div>
               <div class="input-group-append">
                 <span class="input-group-text" id="">Subir</span>
