@@ -162,7 +162,170 @@
       </div>
     </div>
 	<!-- Fin seccion colores de piedra -->
-
+	 <!-- Inicio seccion colores de madera -->
+	 <div class="container">
+    <div class="mt-5 mb-4">
+      <h3>Colores tipo Madera</h3>
+      <p><small>Bajo pedido</small></p>
+    </div>
+    <div class="row">
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/maderas/4972-Yellow-Felt.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 4972 Yellow Felt">
+          <figcaption class="figure-caption"><small>4972 Yellow Felt</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/maderas/6372-White-Washed-Birchply.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 6372 White Washed">
+          <figcaption class="figure-caption"><small>6372 White Washed</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/maderas/6438-Washed-Knotty-Ash.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 6438 Washed Knotty Ash">
+          <figcaption class="figure-caption"><small>6438 Washed Knotty Ash</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/maderas/6477-Seasoned-Planked-Elm.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 6477 Seasoned Planked">
+          <figcaption class="figure-caption"><small>6477 Seasoned Planked</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/maderas/6930-Natural-Cane.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 6930 Natural Cane">
+          <figcaption class="figure-caption"><small>6930 Natural Cane</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/maderas/7012-Amber-Maple.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 7012 Amber Maple">
+          <figcaption class="figure-caption"><small>7012 Amber Maple</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/maderas/7288-Ginger-Root-Maple.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 7288 Ginger Root Maple">
+          <figcaption class="figure-caption"><small>7288 Ginger Root Maple</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/maderas/756-Natural-Maple.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 756 Natural Maple">
+          <figcaption class="figure-caption"><small>756 Natural Maple</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/maderas/7747-Pencil-Wood.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 7747 Pencil Wood">
+          <figcaption class="figure-caption"><small>7747 Pencil Wood</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/maderas/7812-Mdf-Solidz.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 7812 MDF Solidz">
+          <figcaption class="figure-caption"><small>7812 MDF Solidz</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/maderas/8839-Ashen-Ribbonwood.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 8839 Ashen Ribbonwood">
+          <figcaption class="figure-caption"><small>8839 Ashen Ribbonwood</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/maderas/8902-White-Painted-Wood.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 8902 White Painted Wood">
+          <figcaption class="figure-caption"><small>8902 White Painted Wood</small></figcaption>
+        </figure>
+      </div>
+    </div>
+  </div>
+<!-- Fin seccion colores de madera -->
+ <!-- Inicio seccion colores solidos -->
+ <div class="container">
+    <div class="mt-5 mb-4">
+      <h3>Colores Sólidos</h3>
+      <p><small>Bajo pedido</small></p>
+    </div>
+    <div class="row">
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/solidos/1485-Chrome-Yellow.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 1485 Chrome Yellow">
+          <figcaption class="figure-caption"><small>1485 Chrome Yellow</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/solidos/463-Sail-White.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 463 Sail White">
+          <figcaption class="figure-caption"><small>463 Sail White</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/solidos/85984-Gray.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 85984 Gray">
+          <figcaption class="figure-caption"><small>85984 Gray</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/solidos/899-Desert-Beige.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 899 Desert Beige">
+          <figcaption class="figure-caption"><small>899 Desert Beige</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/solidos/Earthenware-8241.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 8241 Earthenware">
+          <figcaption class="figure-caption"><small>8241 Earthenware</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/solidos/Marine-Blue-914-.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 914 Marine Blue">
+          <figcaption class="figure-caption"><small>914 Marine Blue</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/solidos/Matrix-Blue-8795.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 8795 Matrix Blue">
+          <figcaption class="figure-caption"><small>8795 Matrix Blue</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/solidos/Navy-Blue-969.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 969 Navy Blue">
+          <figcaption class="figure-caption"><small>969 Navy Blue</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/solidos/P3605-Kiwi.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: P3605 Kiwi">
+          <figcaption class="figure-caption"><small>P3605 Kiwi</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/solidos/Spectrum-Blue-851.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 851 Spectrum Blue">
+          <figcaption class="figure-caption"><small>851 Spectrum Blue</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/solidos/Stop-Red-839.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 839 Stop Red">
+          <figcaption class="figure-caption"><small>839 Stop Red</small></figcaption>
+        </figure>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6">
+        <figure class="figure">
+          <img src="./img/colores/solidos/Winter-Sky-8792.jpg" class="figure-img img-fluid rounded" alt="Mamparas para baño color: 8792 Winter Sky">
+          <figcaption class="figure-caption"><small>8792 Winter Sky</small></figcaption>
+        </figure>
+      </div>
+    </div>
+  </div>
+<!-- Fin seccion colores solidos -->
   <!-- Opciones -->
   <div class="container bg-light">
     <div class="row ml-auto">
