@@ -82,9 +82,12 @@
                                 <li class="nav-item">
                                     <a class="nav-link opc-nav-normal" href="colores-acabados.php">Colores</a>
                                 </li>
+                                <li class="nav-item">
+                                    <a class="nav-link opc-nav-normal" href="descargas.php">Descargas</a>
+                                </li>
                             </ul>
                             <ul class="navbar-nav my-lg-0">
-                                <li class="nav-item">
+                                <!-- <li class="nav-item">
                                     <a class="nav-link opc-nav-normal" href="sube-tu-plano.php">Sube tu plano</a>
                                 </li>
                                 <li class="nav-item">
@@ -92,7 +95,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link opc-nav-normal" href="agenda.php">Agenda tu Cita</a>
-                                </li>
+                                </li> -->
                             </ul>
                         </div>
                     </nav>
